@@ -1,0 +1,1306 @@
+0.07319703661411649
+startTok Quand j'avais la vingtaine, j'ai vu mes tout premiers clients comme psychothérapeute. endTok	0.16842357369809585
+startTok J'étais étudiante en thèse en psychologie clinique à Berkeley. endTok	0.27768352844338134
+startTok Elle, c'était une femme de 26 ans appelée Alex. endTok	0.27768352844338134
+startTok Lorsqu'Alex est entrée pour sa première séance, elle portait un jean et un grand top trop large, elle s'est laissée tomber sur le canapé de mon bureau, a enlevé ses chaussures et m'a dit qu'elle était ici pour parler de problèmes de garçons. endTok	0.0009606121050066008
+startTok Lorsque j'ai entendu ça, j'ai été si soulagée. endTok	0.3280443278078623
+startTok Ma camarade de classe avait eu un pyromane comme premier patient. endTok	0.19896894256029013
+startTok Et moi, j'avais une fille de 20 ans et quelques qui voulait parler des garçons. endTok	0.10215406126626542
+startTok Je pensais pouvoir gérer ça. endTok	0.5408536609893481
+startTok Mais je ne l'ai pas géré. endTok	0.45782273986766686
+startTok Avec les histoires amusantes qu'Alex ramenait durant les sessions, c'était facile pour moi de simplement hocher la tête alors qu'on repoussait le problème. endTok	0.026927518196686172
+startTok « La trentaine, c'est la nouvelle vingtaine », disait Alex, et, pour ce que j'en savais, elle avait raison. endTok	0.0524476438328049
+startTok Le travail arrive plus tard, le mariage arrive plus tard, les enfants arrivent plus tard, même la mort arrive plus tard. endTok	0.037580378972027005
+startTok Les jeunes dans la vingtaine comme Alex et moi avions toute la vie devant nous. endTok	0.10215406126626542
+startTok Mais peu de temps après, mon direceur de thèse m'a poussé à questionner Alex sur sa vie amoureuse. endTok	0.061959570172152735
+startTok J'ai protesté. endTok	0.6389431042462724
+startTok J'ai dit, « Oui, elle sort avec des idiots, elle couche avec un crétin, mais ce n'est pas qu'elle va l'épouser. » endTok	0.031811104014284386
+startTok Alors mon directeur a répondu, « Pas encore, mais elle pourrait épouser le prochain. endTok	0.12068076399341783
+startTok De plus, le meilleur moment pour préparer le mariage d'Alex, c'est avant qu'elle ne le fasse. » endTok	0.07319658339955233
+startTok C'est ce que les psychologues appellent l'instant de révélation. endTok	0.27768352844338134
+startTok C'est le moment où j'ai réalisé que la trentaine n'est pas la nouvelle vingtaine. endTok	0.12068076399341783
+startTok Oui, les gens se casent plus tard qu'auparavant, mais ça ne fait pas de la vingtaine d'Alex un temps mort pour son développement. endTok	0.026927518196686172
+startTok Ça fait de la vingtaine d'Alex le meilleur moment pour son développement, et nous étions assises là à le gâcher. endTok	0.04439597201804127
+startTok C'est à ce moment que j'ai compris que cette négligence anodine était un vrai problème et qu'il avait de réelles conséquences, non seulement pour Alex et sa vie sentimentale mais pour les carrières, les familles et l'avenir de toutes les personnes dans la vingtaine. endTok	0.0008131405915967908
+startTok Il y a actuellement 50 millions de personnes dans la vingtaine aux Etats-Unis. endTok	0.12068076399341783
+startTok C'est à dire environ 15 pour cent de la population, ou 100 pour cent si on considère que personne ne se sort de l'âge adulte sans d'abord se sortir de ses 20 ans. endTok	0.00508595123231852
+startTok Levez la main, si vous avez la vingtaine. endTok	0.3280443278078623
+startTok Je voudrais vraiment en voir quelques uns ici. endTok	0.3280443278078623
+startTok Oh, ouais! Vous êtes géniaux. endTok	0.5408536609893481
+startTok Si vous travaillez avec des gens dans la vingtaine, si vous aimez une personne dans la vingtaine si vous perdez le sommeil à cause de personnes dans la vingtaine, je veux voir -- OK. Génial, les jeunes de vingt ans comptent vraiment. endTok	0.001340642189435315
+startTok Je me suis spécialisée dans les vingt ans parce que je crois que chacun de ces 50 millions de jeunes mérite de savoir ce que les psychologues, les sociologues, les neurologues et les spécialistes de la fertilité savent déjà : assumer sa vingtaine est une des choses les plus simples, mais aussi les plus transformantes, qu'on puisse vivre pour son travail, sa vie amoureuse, son bonheur et peut-être même le monde. endTok	9.033176017153059e-06
+startTok Ce n'est pas mon opinion. Ce sont les faits. endTok	0.27768352844338134
+startTok Nous savons que 80 pour cent des moments les plus décisifs d'une vie ont lieu avant 35 ans. endTok	0.061959570172152735
+startTok Ça signifie que 8 des 10 décisions, expériences et révélations qui font d'une vie ce qu'elle est auront lieu d'ici le milieu de la trentaine. endTok	0.019294409903971108
+startTok Vous les gens de plus de 40 ans, pas de panique. endTok	0.19896894256029013
+startTok Ce public va s'en sortir, je pense. endTok	0.38753858253732953
+startTok Nous savons que les 10 premières années d'une carrière ont un impact exponentiel sur le salaire qu'on gagnera. endTok	0.061959570172152735
+startTok Nous savons que plus de la moitié des Américains sont mariés, vivent ou sortent avec leur futur partenaire avant leurs 30 ans. endTok	0.031811104014284386
+startTok Nous savons que le cerveau termine sa seconde et ultime poussée de croissance dans la vingtaine alors qu'il se recâble pour l'âge adulte, ce qui signifie que tout ce qu'on veut changer en soi, c'est maintenant qu'il faut le faire. endTok	0.0015837816104164078
+startTok Nous savons que la personnalité change plus durant la vingtaine qu'à n'importe quel autre moment de la vie, et nous savons que le pic de fertilité chez les femmes a lieu à 28 ans, et que les choses se compliquent après 35 ans. endTok	0.0009606121050066008
+startTok Donc la vingtaine est le moment de s'informer sur son corps et ses options. endTok	0.12068076399341783
+startTok Donc, lorsqu'on pense au développement de l'enfant, nous savons tous que les 5 premières années sont une période critique pour le langage et les connections dans le cerveau. endTok	0.011702651167821564
+startTok C'est le moment où la vie quotidienne a un impact extraordinaire sur celui ou celle qu'on va devenir. endTok	0.061959570172152735
+startTok Mais ce dont on entend moins parler, c'est qu'il existe ce qu'on appelle un développement adulte, et que notre vingtaine est la période critique du développement adulte. endTok	0.013825048815240323
+startTok Mais ce n'est pas ce que les jeunes adultes entendent. endTok	0.23505403213046533
+startTok Les journaux parlent de décalage des phases de la maturité. endTok	0.23505403213046533
+startTok Les chercheurs appellent les 20 ans, une adolescence prolongée. endTok	0.27768352844338134
+startTok Les journalistes donnent des surnoms stupides à ceux qui ont la vingtaine comme « twixters » ou « adulescent ». endTok	0.04439597201804127
+startTok C'est vrai. endTok	0.6389431042462724
+startTok Culturellement, nous avons trivialisé ce qui est en réalité la décennie primordiale de l'âge adulte. endTok	0.10215406126626542
+startTok Leonard Bernstein a dit que pour faire de grandes choses, il faut avoir un plan et pas assez de temps. endTok	0.04439597201804127
+startTok N'est-ce pas vrai ? endTok	0.6389431042462724
+startTok Que pensez-vous qu'il arrive quand, en lui passant la main dans les cheveux, on dit à un jeune de vingt ans «Tu as encore 10 ans pour commencer ta vie ? » endTok	0.006008341447626345
+startTok Il ne se passe rien. endTok	0.5408536609893481
+startTok On a privé cette personne de son impatience et de son ambition, et il ne se passe absolument rien. endTok	0.0524476438328049
+startTok Et puis, chaque jour, des jeunes gens intelligents, intéressants comme vous ou comme vos fils et vos filles arrivent dans mon bureau et disent des choses comme : « Je sais que mon petit ami n'est pas bon pour moi mais cette relation n'a pas d'importance. Je ne fais que passer le temps. » endTok	0.00018143619042618108
+startTok Ou bien ils disent :« Tout le monde dit que tant que je commence ma carrière d'ici mes 30 ans, ça ira. » endTok	0.026927518196686172
+startTok Mais ensuite ça commence à ressembler à ça : « Ma vingtaine est presque terminée, et je n'ai rien accompli. endTok	0.0524476438328049
+startTok J'avais un meilleur CV au lendemain de mon diplôme universitaire. » endTok	0.19896894256029013
+startTok Et ensuite ça commence à ressembler à ça : « Sortir à 20 ans, c'était comme jouer aux chaises musicales. endTok	0.0524476438328049
+startTok Tout le monde se tournait autour et s'amusait, mais ensuite vers 30 ans, c'est comme si la musique s'arrêtait et tout le monde commençaient à s'asseoir. endTok	0.016332365376260007
+startTok Je ne voulais pas être la dernière debout, alors quelquefois je pense que j'ai épousé mon mari parce qu'il était la chaise la plus proche de moi à 30 ans. » endTok	0.007098016733205634
+startTok Où sont les gens qui ont la vingtaine ici ? endTok	0.27768352844338134
+startTok Ne faites pas ça. endTok	0.6389431042462724
+startTok OK, ça a l'air un peu léger, mais ne vous y trompez pas, les enjeux sont très importants. endTok	0.061959570172152735
+startTok Quand on repousse beaucoup de choses jusqu'à la trentaine, on se met sous pression pour faire décoller sa carrière, pour s'installer, se mettre en couple, avoir 2 ou 3 enfants en une période encore plus courte. endTok	0.003084785356204433
+startTok Beaucoup de ces choses sont incompatibles, comme la recherche commence à le montrer, simplement plus difficiles et plus stressantes à faire tout d'un coup pendant la trentaine. endTok	0.013825048815240323
+startTok La crise de la quarantaine post-millénaire ne consiste pas à acheter une voiture de sport rouge. endTok	0.07319658339955233
+startTok C'est de se rendre compte qu'on ne peut pas avoir la carrière qu'on veut maintenant. endTok	0.10215406126626542
+startTok C'est se rendre compte qu'on ne peut pas avoir les enfants qu'on veut maintenant, ou qu'on ne peut pas faire un frère ou une sœur à son enfant. endTok	0.011702651167821564
+startTok Beaucoup trop de trentenaires et de quadragénaires se regardent, puis me regardent moi de l'autre côté de cette pièce, parlent de leur vingt ans et disent: « Qu'est-ce que je faisais ? A quoi est-ce que je pensais » endTok	0.0015837816104164078
+startTok Je veux changer ce que les gens de la vingtaine sont en train de faire et de penser. endTok	0.061959570172152735
+startTok Voici une histoire sur ce qui peut se passer. endTok	0.27768352844338134
+startTok C'est l'histoire d'une femme appelée Emma. endTok	0.45782273986766686
+startTok A 25 ans, Emma est venue dans mon bureau parce qu'elle avait, selon ses propres mots, une crise d'identité. endTok	0.0524476438328049
+startTok Elle disait qu'elle pensait qu'elle aimerait travailler dans le domaine des arts ou du spectacle, mais elle n'avait pas encore décidé, elle avait donc passé les dernières années comme serveuse. endTok	0.008385315978467074
+startTok Parce que c'était moins cher, elle vivait avec son petit ami qui affichait son mauvais caractère plus souvent que ses ambitions. endTok	0.037580378972027005
+startTok Et bien que sa vingtaine ait été difficile, son enfance l'avait été encore davantage. endTok	0.12068076399341783
+startTok Elle pleurait souvent pendant nos sessions, mais ensuite elle se reprenait en disant, « On ne choisit pas sa famille mais on peut choisir ses amis. » endTok	0.013825048815240323
+startTok Puis un jour, Emma est entrée elle a posé sa tête sur ses genoux et a sangloté pendant presque toute l'heure. endTok	0.037580378972027005
+startTok Elle venait juste d'acheter un nouveau carnet d'adresse, et avait passé la matinée à le remplir avec ses nombreux contacts, mais ensuite elle était restée à observer cette page blanche qu'il y a après les mots « En cas d'urgence, s'il vous plait appelez... » endTok	0.0006883086505534262
+startTok Elle était presque hystérique quand elle m'a regardé et a dit, « Qui est-ce qui sera là pour moi si j'ai un accident de voiture ? endTok	0.016332365376260007
+startTok Qui va prendre soin de moi si j'ai un cancer ? » endTok	0.19896894256029013
+startTok Et à ce moment-là, il m'a fallu toute ma volonté pour ne pas dire, « Moi je le ferai » endTok	0.037580378972027005
+startTok Mais ce dont Emma avait besoin, ce n'était pas d'une psy qui se sentait vraiment vraiment concernée. endTok	0.07319658339955233
+startTok Emma avait besoin d'une meilleure vie, et je savais que là c'était sa chance. endTok	0.12068076399341783
+startTok J'en avais trop appris depuis la première fois où j'avais travaillé avec Alex pour rester assise là à regarder la décennie décisive d'Emma passer devant moi. endTok	0.016332365376260007
+startTok Donc durant les semaines et les mois suivants, J'ai dit à Emma voici trois choses que toute personne de vingt ans, homme ou femme, mérite d'entendre. endTok	0.016332365376260007
+startTok Tout d'abord, j'ai dit à Emma d'oublier sa crise d'identité mais d'avoir un capital d'identité. endTok	0.10215406126626542
+startTok Par avoir un capital d'identité, je veux dire faire quelque chose qui ajoute de la valeur à la personne que l'on est. endTok	0.031811104014284386
+startTok Faire quelque chose qui soit un investissement pour la personne que l'on veut être après. endTok	0.10215406126626542
+startTok Je ne savais pas quel serait la carrière future d'Emma, personne ne connaît son avenir professionnel mais je sais ceci : le capital identitaire génère le capital identitaire. endTok	0.013825048815240323
+startTok C'est maintenant qu'il faut postuler ce travail à l'autre bout du pays, ce stage, cette start-up qu'on veut tenter. endTok	0.04439597201804127
+startTok Je ne néglige pas ici les exprériences exploratoires des gens dans la vingtaine mais j'écarte celles qui sont supposées ne pas être importantes celles qui, par ailleurs, ne sont pas des expériences exploratoires. endTok	0.00508595123231852
+startTok C'est de la procrastination. endTok	0.6389431042462724
+startTok J'ai dit à Emma d'explorer la piste du travail et de faire en sorte que ça compte. endTok	0.07319658339955233
+startTok Deuxièmement, j'ai dit à Emma que la tribu urbaine était surfaite. endTok	0.19896894256029013
+startTok Les meilleurs amis sont super pour vous emmener à l'aéroport, mais les jeunes de vingt ans qui restent entre gens ayant les mêmes conceptions limitent ceux qu'ils connaissent, ce qu'ils connaissent, comment ils pensent, comment ils parlent, et où ils travaillent. endTok	0.001340642189435315
+startTok Cette nouvelle part de capital, cette nouvelle personne avec qui sortir vient presque toujours de l'extérieur du cercle restreint. endTok	0.0524476438328049
+startTok Les nouveautés viennent de ce qu'on appelle nos liens faibles, les amis d'amis d'amis. endTok	0.12068076399341783
+startTok Alors oui, la moitié des jeunes dans la vingtaine sont sans emploi ou sous-employés. endTok	0.10215406126626542
+startTok Mais la moitié ne l'est pas, et les liens faibles sont une façon d'entrer soi-même dans ce groupe. endTok	0.0524476438328049
+startTok La moitié des nouveaux postes ne sont jamais publiés, donc entrer en contact avec le patron de son voisin est la façon dont on obtiendra ce poste non publié. endTok	0.009906080346330753
+startTok Ce n'est pas tricher. C'est la science de la diffusion de l'information. endTok	0.16842357369809585
+startTok Enfin et surtout, Emma croyait qu'on ne peut pas choisir sa famille, mais qu'on peut choisir ses amis. endTok	0.061959570172152735
+startTok C'était vrai pendant son enfance mais une fois dans la vingtaine, bientôt Emma choisirait sa famille quand elle se mettrait en couple avec quelqu'un et créerait sa propre famille. endTok	0.009906080346330753
+startTok J'ai dit à Emma que c'était maintenant qu'il fallait comencer à choisir sa famille. endTok	0.12068076399341783
+startTok Certes, on peut penser que la trentaine est en réalité un meilleur âge pour se caser que 20 ou même 25 ans, et je suis d'accord avec vous. endTok	0.011702651167821564
+startTok Mais attrapper celui ou celle avec qui on vit ou on couche par hasard au moment ou vous couchez où tous ses amis sur Facebook commencent à passer à la mairie, ce n'est pas aller de l'avant. endTok	0.002611214429237235
+startTok Le meilleur moment de préparer son mariage, c'est avant, ça signifie être aussi réfléchi en amour que dans son travail. endTok	0.04439597201804127
+startTok Choisir sa famille consiste à choisir consciencieusement qui et ce qu'on veut plutôt que de tuer le temps et de s'accommoder de celui ou celle qui par hasard vous aura choisi. endTok	0.007098016733205634
+startTok Donc qu'est-ce qui est arrivé à Emma ? endTok	0.3280443278078623
+startTok Et bien, elle a ouvert son carnet d'adresse, et elle a trouvé un cousin d'une ancienne colocataire qui travaillait dans un musée d'art dans un autre état. endTok	0.013825048815240323
+startTok Ce lien faible l'a aidée à obtenir un travail là-bas. endTok	0.19896894256029013
+startTok Ce travail lui a donné une bonne raison de quitter ce petit ami avec lequel elle vivait. endTok	0.07319658339955233
+startTok Maintenant, cinq ans plus tard, elle travaille dans l'événementiel pour les musées. endTok	0.16842357369809585
+startTok Elle a épousé un homme qu'elle a choisi avec soin. endTok	0.23505403213046533
+startTok Elle aime sa nouvelle carrière, elle aime sa nouvelle famille, et elle m'a envoyé une carte qui disait, « Maintenant l'espace pour les contacts d'urgence ne paraît pas assez grand. » endTok	0.007098016733205634
+startTok Certes l'histoire d'Emma peut donner à croire que c'est simple, mais c'est ce que j'aime avec les gens dans la vingtaine. endTok	0.037580378972027005
+startTok Ils sont si faciles à aider. endTok	0.45782273986766686
+startTok Les gens dans la vingtaine sont comme des avions qui décollent de Los Angeles, en route vers l'ouest. endTok	0.061959570172152735
+startTok Juste après le décollage, un léger changement de trajectoire fait qu'ils atterrissent en Alaska plutôt qu' à Fiji. endTok	0.061959570172152735
+startTok De même, à 21 ou 25, ou même 29 ans, une bonne conversation, un coup de chance, une bonne conférence TED peuvent avoir un impact énorme pour les années et même les générations à venir. endTok	0.003644243302007566
+startTok Voilà donc une idée qui mérite d'être diffusée à tous les jeunes de vingt ans que vous connaissez. endTok	0.061959570172152735
+startTok C'est aussi simple que ce que j'ai appris à dire à Alex. endTok	0.16842357369809585
+startTok C'est ce que j'ai maintenant le plaisir de dire chaque jour aux gens de vingt ans comme Emma : La trentaine n'est pas la nouvelle vingtaine, assumez donc votre âge adulte, gagnez du capital d'identité, utilisez vos liens faibles, choisissez votre famille. endTok	0.001340642189435315
+startTok Ne soyez pas définis par ce que vous ne saviez pas ou n'avez pas fait. endTok	0.10215406126626542
+startTok Vous décidez de votre vie dès maintenant. endTok	0.38753858253732953
+startTok Merci. endTok	0.6389431042462724
+startTok Tout au long de l'histoire de l'informatique, nous avons tâché de combler le fossé entre nous et le monde numérique, l'écart entre notre monde physique et le monde derrière notre écran où notre imagination peut s'épanouir. endTok	0.003084785356204433
+startTok Cet écart est devenu plus mince, encore plus mince, toujours plus mince, et maintenant il en est devenu plus fin qu'un millimètre, l'épaisseur d'un écran tactile. La puissance de l'informatique est à présent accessible à tous. endTok	0.003084785356204433
+startTok Mais je me suis demandé : et s'il pouvait n'y avoir aucune limite ? endTok	0.16842357369809585
+startTok J'ai commencé à imaginer à quoi cela pourrait ressembler. endTok	0.27768352844338134
+startTok Premièrement, j'ai créé cet outil qui pénètre dans l'espace numérique. Lorsque vous l'appuyez sur l'écran, il transfère sa matière physique en pixels. endTok	0.031811104014284386
+startTok Les designers peuvent matérialiser leurs idées directement en 3D, et les chirurgiens peuvent s'entraîner sur des organes virtuels sous l'écran. endTok	0.04439597201804127
+startTok Avec cet outil, la frontière a été franchie. endTok	0.3280443278078623
+startTok Mais nos deux mains demeurent encore hors de l'écran. endTok	0.27768352844338134
+startTok Comment peut-on s'introduire à l'intérieur et interagir avec les informations numériques en utilisant toute la dextérité de nos mains ? endTok	0.04439597201804127
+startTok Chez Microsoft Applied Sciences, avec mon mentor Cati Boulanger, j'ai repensé l'ordinateur et transformé un petit espace au-dessus du clavier en un espace de travail numérique. endTok	0.013825048815240323
+startTok En combinant un écran transparent et des caméras de profondeur pour la détection des doigts et du visage, vous pouvez maintenant lever vos mains du clavier, atteindre l'intérieur de cet espace 3D et saisir les pixels à mains nues. endTok	0.0018710168971705456
+startTok Parce que nos fenêtres et nos fichiers ont une position dans l'espace réel, les sélectionner est aussi facile que d'attraper un livre sur votre étagère. endTok	0.019294409903971108
+startTok Puis vous pouvez feuilletez ce livre tout en surlignant les lignes, les mots via le clavier virtuel sous chaque fenêtre flottante. endTok	0.037580378972027005
+startTok Les architectes peuvent étirer ou faire tourner les modèles directement avec leurs mains. endTok	0.14256747717620566
+startTok Ainsi, avec ces exemples, nous pénétrons dans le monde numérique. endTok	0.23505403213046533
+startTok Mais pourquoi ne pas inverser les rôles, et amener les éléments numériques jusqu'à nous ? endTok	0.12068076399341783
+startTok Je suis sûr que beaucoup d'entre vous ont fait l'expérience d'acheter et de retourner des articles en ligne. endTok	0.061959570172152735
+startTok Mais maintenant, il ne faut plus s'en inquiéter. endTok	0.3280443278078623
+startTok J'ai apporté ici une cabine d'essayage en ligne en réalité augmentée. endTok	0.19896894256029013
+startTok Il s'agit d'une vue que vous recevez d'un dispositif d'affichage monté sur la tête ou bien transparent grâce à un système qui comprend la géométrie de votre corps. endTok	0.011702651167821564
+startTok Poussant cette idée plus loin, j'ai commencé à me dire : au lieu de juste voir ces pixels dans notre espace, comment pouvons-nous les rendre concrets, afin que nous puissions les toucher et les sentir ? endTok	0.003644243302007566
+startTok A quoi ressemblerait un tel futur ? endTok	0.45782273986766686
+startTok Au MIT Media Lab, avec mon conseiller Hiroshi Ishii et mon collaborateur Rehmi Post, Nous avons matérialisé un pixel. endTok	0.0524476438328049
+startTok Ici, cet aimant sphérique agit comme un pixel en 3D dans notre espace, ce qui signifie que des ordinateurs comme des personnes peuvent déplacer cet objet partout dans ce petit espace 3D. endTok	0.006008341447626345
+startTok Nous avons en gros réussi à annuler la gravité et à contrôler le mouvement en combinant la lévitation magnétique, l'actionnement mécanique et les technologies de télédétection. endTok	0.016332365376260007
+startTok En programmant numériquement l'objet, nous le libérons de toutes contraintes de temps et d'espace, ce qui signifie que maintenant, les mouvements humains peuvent être enregistrés, reproduits et conservés indéfiniment dans le monde physique. endTok	0.00508595123231852
+startTok Donc une chorégraphie peut être enseignée physiquement à distance et le célèbre tir de Michael Jordan peut être répliqué encore et encore comme une réalité physique. endTok	0.016332365376260007
+startTok Les étudiants peuvent l'utiliser comme un outil pour en savoir plus sur les concepts complexes tels le mouvement des planètes, les lois de la physique, et contrairement aux écrans d'ordinateur ou aux manuels scolaires, il s'agit d'une expérience réelle, tangible que vous pouvez toucher et sentir, et c'est très puissant. endTok	0.0002991377064304437
+startTok Ce qui est bien plus excitant que de simplement donner forme à ce qui est déjà dans l'ordinateur, c'est de commencer à imaginer comment le monde de la programmation changera notre activité physique quotidienne. endTok	0.004305164771842524
+startTok Comme vous pouvez le voir, l'information numérique ne va pas seulement nous montrer quelque chose, mais va commencer à agir directement sur nous comme une composante de notre environnement physique sans nous déconnecter du monde. endTok	0.003644243302007566
+startTok Aujourd'hui, nous avons commencé par parler de limite, mais si on supprime cette limite, la seule qu'il nous reste est notre imagination. endTok	0.031811104014284386
+startTok Merci. endTok	0.6389431042462724
+startTok J'ai été entraînée pour devenir gymnaste pendant 2 ans, dans la province d'Hunan en Chine dans les années 1970. endTok	0.0524476438328049
+startTok Quand j'étais en première année, le gouvernement a voulu me transférer dans une école pour athlètes, tous frais payés. endTok	0.0524476438328049
+startTok Mais maman tigre a dit, « Non. » endTok	0.3280443278078623
+startTok Mes parents voulaient que je devienne ingénieure comme eux. endTok	0.27768352844338134
+startTok Ayant survécu à la révolution culturelle, ils croyaient dur comme fer qu'il n'y avait qu'un seul vrai moyen d'être heureux : un emploi stable et bien payé. endTok	0.016332365376260007
+startTok Que j'aime ce travail ou non n'avait pas d'importance. endTok	0.27768352844338134
+startTok Mais mon rêve était de devenir chanteuse d'opéra chinois. endTok	0.27768352844338134
+startTok Ça, c'est moi qui joue sur mon piano imaginaire. endTok	0.27768352844338134
+startTok Une chanteuse d'opéra doit commencer à s'entraîner dès son plus jeune âge pour apprendre l'acrobatie, alors j'ai tout essayé pour être acceptée à l'école d'opéra. endTok	0.019294409903971108
+startTok J'ai même écrit au directeur de l'école et à l'animateur d'une émission de radio. endTok	0.12068076399341783
+startTok Mais aucun adulte n'a aimé cette idée. endTok	0.38753858253732953
+startTok Aucun adulte n'a cru que j'étais sérieuse. endTok	0.38753858253732953
+startTok Seuls mes amis m'ont soutenue, mais c'était des enfants, tout aussi impuissants que moi. endTok	0.12068076399341783
+startTok Alors à quinze ans, j'ai compris que j'étais trop vieille pour être entraînée. endTok	0.14256747717620566
+startTok Mon rêve ne se réaliserait jamais. endTok	0.45782273986766686
+startTok J'ai eu peur que pour le reste de ma vie, un bonheur fade serait ce que je pouvais espérer de mieux. endTok	0.037580378972027005
+startTok Mais c'est tellement injuste. endTok	0.6389431042462724
+startTok J'étais déterminée à trouver une autre vocation. endTok	0.38753858253732953
+startTok Personne pour m'apprendre ? Parfait. endTok	0.6389431042462724
+startTok Je me suis tournée vers les livres. endTok	0.38753858253732953
+startTok J'ai satisfait ma soif de conseils parentaux en lisant ce livre écrit par une famille d'écrivains et de musiciens. [" Correspondance dans la Famille de Fou Lei "] Je me suis trouvé un modèle de femme indépendante alors que la tradition confucianiste exigeait l'obéissance. [" Jane Eyre "] Et avec ce livre, j'ai appris à être efficace. [" Treize à la douzaine "] Et après avoir lu ce livre, j'ai eu envie d'aller étudier à l'étranger. endTok	1.0671436549111982e-05
+startTok [" Oeuvres complètes de Sanmao " ] [" Des Leçons de l'Histoire " pas Nan Huaijin] Je suis arrivée aux États-Unis en 1995, et selon vous, quels livres ai-je lu en arrivant ? endTok	0.009906080346330753
+startTok Les livres interdits en Chine, bien sûr. endTok	0.38753858253732953
+startTok " La Terre chinoise " parle de la vie rurale en Chine. endTok	0.23505403213046533
+startTok Pas vraiment l'idéal pour la propagande. D'accord. endTok	0.38753858253732953
+startTok La Bible est intéressante, mais étrange. endTok	0.45782273986766686
+startTok Ce n'est pas notre sujet d'aujourd'hui. endTok	0.45782273986766686
+startTok Mais le cinquième commandement fût une révélation : « Tu honoreras ton père et ta mère . » endTok	0.08647154598524984
+startTok « Honorer », je me suis dit, « c'est tellement différent, et mieux qu'obéir. » endTok	0.10215406126626542
+startTok C'est devenu mon tremplin pour sortir de cette culpabilité confucéenne et pour reconstruire ma relation avec mes parents. endTok	0.061959570172152735
+startTok Au contact de cette nouvelle culture, j'ai aussi pris l'habitude de faire de la lecture comparée. endTok	0.08647154598524984
+startTok C'est une grande source d'enseignements. endTok	0.5408536609893481
+startTok Par exemple, j'ai trouvé cette carte étrange au début car c'est cette carte-là que les élèves Chinois étudient. endTok	0.0524476438328049
+startTok Il ne m'était jamais venu à l'esprit que la Chine n'était peut-être pas au centre du monde. endTok	0.061959570172152735
+startTok Une carte ne représente que la perspective de quelqu'un. endTok	0.27768352844338134
+startTok La lecture comparée n'a rien de nouveau. endTok	0.38753858253732953
+startTok C'est une pratique répandue dans les milieux académiques. endTok	0.3280443278078623
+startTok Il existe même des domaines de recherche dédiés à la religion comparée et la littérature comparée. endTok	0.08647154598524984
+startTok Comparer et mettre en opposition donne aux intellectuels une compréhension plus approfondie d'un sujet. endTok	0.12068076399341783
+startTok Alors j'ai pensé, bon, si la lecture comparée fonctionne pour la recherche, pourquoi ne pas l'appliquer dans la vie de tous les jours ? endTok	0.026927518196686172
+startTok Alors j'ai commencé à lire les livres par deux. endTok	0.27768352844338134
+startTok Et ils peuvent porter sur des gens -- [" Benjamin Franklin : Une vie américaine " de Walter Isaacson] John Adams" de David McCullough] -- qui sont impliqués dans le même évènement, ou sur des amis qui partagent les mêmes expériences. endTok	0.003084785356204433
+startTok [" L'autobiographie de Katharine Graham "] [" Warren Buffett. La biographie officielle, l'effet boule de neige," d'Alice Schroeder] Je compare aussi des histoires similaires dans différents genres -- [La Bible, version du Roi James] [" L'Agneau " de Christopher Moore] -- ou des histoires similaires vues par différentes cultures, comme ce que Joseph Campbell a fait dans son merveilleux livre. [" La puisssance du mythe " de Joseph Campbell] Par exemple, Christ et Bouddha ont tous les deux vécu trois tentations. endTok	7.64641841624024e-06
+startTok Pour le Christ, les tentations sont économiques, politiques et spirituelles. endTok	0.23505403213046533
+startTok Pour le Bouddha, elles sont toutes psychologiques : l'envie, la peur et le devoir social -- intéressant. endTok	0.10215406126626542
+startTok Et si vous parlez une autre langue, c'est amusant aussi de lire vos livres favoris dans les deux langues. endTok	0.0524476438328049
+startTok [" Zen, Tao et Nirvana ", Thomas Merton] [" Tao: The Watercourse Way " d'Alan Watts] Plutôt que de perdre du sens, j'ai trouvé qu'il y avait tant à gagner. endTok	0.016332365376260007
+startTok Par exemple, c'est grâce à la traduction que j'e me suis rendue compte que " bonheur " en Chinois se traduit littéralement par " joie rapide ". Hum ! endTok	0.022793652050154326
+startTok " Mariée " en chinois se traduit littéralement par " nouvelle mère ". Oh-oh ! endTok	0.19896894256029013
+startTok Les livres ont été une sorte de porte magique pour entrer en contact avec les gens du passé et du présent. endTok	0.037580378972027005
+startTok Je sais que je ne me sentirai plus jamais seule et impuissante. endTok	0.16842357369809585
+startTok Avoir vu mon rêve brisé n'est vraiment pas grand' chose comparé aux souffrances que beaucoup d'autres ont endurées. endTok	0.061959570172152735
+startTok J'en suis venue à croire que devenir réalité n'est pas la seule raison d'être d'un rêve. endTok	0.08647154598524984
+startTok Sa raison d'être la plus importante est de nous amener là d'où les rêves viennent, d'où la passion vient, d'où le bonheur vient. endTok	0.026927518196686172
+startTok Même un rêve brisé peut faire ça pour vous. endTok	0.27768352844338134
+startTok Alors grâce aux livres, je suis ici aujourd'hui, heureuse, vivant de nouveau avec un but et une clarté d'esprit, la plupart du temps. endTok	0.026927518196686172
+startTok Que les livres soient toujours avec vous. endTok	0.38753858253732953
+startTok Merci. endTok	0.6389431042462724
+startTok Merci. endTok	0.6389431042462724
+startTok Merci. endTok	0.6389431042462724
+startTok Quand j'avais huit ans, une nouvelle fille a rejoint la classe, et elle était très impressionnante, comme le sont toujours les nouvelles filles. endTok	0.026927518196686172
+startTok Elle avait une épaisse chevelure très brillante, une mignonne petite trousse, elle était incollable sur les capitales, et super forte en dictée. endTok	0.031811104014284386
+startTok Je me suis décomposée de jalousie durant toute cette année là, jusqu'à ce que j'élabore mon plan sournois. endTok	0.061959570172152735
+startTok Un jour, je suis restée un peu tard après l'école, un peu trop tard, et je me suis tapie dans les toilettes des filles. endTok	0.022793652050154326
+startTok Quand la voie a été libre, je suis sortie, je me suis introduite dans la classe, et j'ai pris le cahier de notes sur le bureau de ma maîtresse. endTok	0.009906080346330753
+startTok Et puis je l'ai fait. endTok	0.5408536609893481
+startTok J'ai bidouillé les notes de ma rivale, juste un peu, seulement rétrogradé quelques uns de ces A. endTok	0.07319658339955233
+startTok La totalité de ces A. endTok	0.5408536609893481
+startTok Et je me préparais à remettre le cahier dans son tiroir, quand, attendez un peu, certains autres de mes camarades avaient aussi de terriblement bonnes notes. endTok	0.016332365376260007
+startTok Alors, prise de frénésie, j'ai corrigé les notes de tout le monde, sans aucune imagination. endTok	0.10215406126626542
+startTok J'ai donné à tout le monde une rangée de D. Et je me suis attribuée une rangée de A. Puisque j'étais là, vous voyez, autant en profiter. endTok	0.013825048815240323
+startTok Je suis encore perplexe aujourd'hui devant mon comportement. endTok	0.3280443278078623
+startTok Je ne comprends pas d'où m'est venue l'idée. endTok	0.3280443278078623
+startTok Je ne comprends pas pourquoi je me sentais si bien en le faisant. endTok	0.14256747717620566
+startTok Je me sentais très bien. endTok	0.5408536609893481
+startTok Je ne comprends pas pourquoi je n'ai jamais été attrapée. endTok	0.23505403213046533
+startTok Je veux dire, ça aurait pourtant dû être tellement évident. endTok	0.23505403213046533
+startTok Je n'ai jamais été attrapée. endTok	0.5408536609893481
+startTok Mais plus que tout, je me demande pourquoi ça me dérangeait tellement que cette petite fille, cette minuscule petite fille, soit si forte en dictée ? endTok	0.019294409903971108
+startTok La jalousie me rend perplexe ! endTok	0.5408536609893481
+startTok Elle est si mystérieuse, et pourtant tellement répandue. endTok	0.3280443278078623
+startTok On sait que les bébés souffrent de jalousie. endTok	0.3280443278078623
+startTok On sait que les primates en souffrent. Les merles bleus y sont très enclins. endTok	0.12068076399341783
+startTok On sait que la jalousie est la première cause de meurtres conjugaux aux Etats-Unis. endTok	0.10215406126626542
+startTok Et pourtant, aucune des études que j'ai lues n'a su me décrypter le sentiment de solitude qu'elle entraîne, sa durée, ou la sombre joie qui l'accompagne. endTok	0.016332365376260007
+startTok Pour cela, on doit se tourner vers la fiction, parce que le roman est le labo qui a étudié la jalousie dans toutes les configurations possibles. endTok	0.016332365376260007
+startTok En fait, je ne crois pas qu'il soit exagéré de dire que sans la jalousie, nous n'aurions même pas de littérature ? endTok	0.037580378972027005
+startTok Sans l'infidèle Hélène, pas d'Odyssée. endTok	0.5408536609893481
+startTok Sans roi jaloux, pas de « Mille et une Nuits ». endTok	0.19896894256029013
+startTok Pas de Shakespeare. endTok	0.6389431042462724
+startTok Adieu la liste de lecture du lycée, parce qu'on perd « Le Bruit et la Fureur », on perd « Gatsby le Magnifique », « Le Soleil se Lève Aussi », on perd « Madame Bovary », « Anna Karénine ». endTok	0.001340642189435315
+startTok Pas de jalousie, pas de Proust. Bien sûr, je sais que c'est à la mode de dire que Proust détient la réponse à tout. Mais dans le cas de la jalousie, c'est un peu vrai. endTok	0.003644243302007566
+startTok Cette année c'est le centenaire de son chef-d'oeuvre, « A la Recherche du Temps Perdu », qui est l'étude la plus complète sur la jalousie sexuelle et sur l'esprit de compétition, mon registre, que l'on puisse espérer avoir. endTok	0.0018710168971705456
+startTok Lorsqu'on pense à Proust, on pense aux trucs sentimentaux, non ? endTok	0.23505403213046533
+startTok On pense au petit garçon qui essaie de s'endormir. endTok	0.27768352844338134
+startTok On pense à une madeleine trempée dans un thé à la lavande. endTok	0.16842357369809585
+startTok On oublie à quel point sa vision était sévère. endTok	0.27768352844338134
+startTok On oublie à quel point il est sans pitié. endTok	0.27768352844338134
+startTok Je veux dire, ce sont des livres dont Virginia Woolf a dit qu'ils étaient durs comme du catgut. endTok	0.061959570172152735
+startTok Je ne sais pas ce qu'est du catgut, mais je suppose que c'est redoutable. endTok	0.12068076399341783
+startTok Pourquoi vont-ils si bien ensemble, le roman et la jalousie, la jalousie et Proust ? endTok	0.10215406126626542
+startTok Est-ce pour la raison évidente que la jalousie, qui se résume à sujet, désir, obstacle, est un socle narratif tellement solide ? endTok	0.031811104014284386
+startTok Je ne sais pas. Je pense que c'est une explication un peu limitée, si on réfléchit à ce qui se passe quand on est jaloux. endTok	0.019294409903971108
+startTok Quand on est jaloux, on se raconte des histoires. endTok	0.27768352844338134
+startTok On se raconte des histoires sur la vie des autres, et ces histoires nous font du mal, parce qu'elles sont conçues pour nous faire du mal. endTok	0.016332365376260007
+startTok En tant que conteur et public à la fois, on sait exactement quels détails intégrer pour retourner le couteau dans la plaie, non ? endTok	0.026927518196686172
+startTok La jalousie fait de nous tous des romanciers amateurs, et c'est une chose que Proust avait comprise. endTok	0.07319658339955233
+startTok Dans le premier tome, « Du Côté de Chez Swann », dans les premiers volumes, Swann, l'un des personnages principaux, pense très tendrement à sa maîtresse, et à ses qualités au lit, et tout à coup, en quelques phrases -- et ce sont des phrases proustiennes, alors elles sont longues comme des fleuves -- mais en quelques phrases, il se reprend soudain, et il réalise, « Attends, tout ce que j'aime chez cette femme, n'importe qui d'autre l'aimerait aussi. endTok	3.3231197451935427e-06
+startTok Tout ce qu'elle fait qui me donne du plaisir, pourrait donner du plaisir à n'importe qui d'autre, si ça se trouve en ce moment même. » endTok	0.016332365376260007
+startTok Et voici l'histoire qu'il commence à se raconter, et à partir de là, Proust écrit que chaque nouveau charme que Swann trouve à sa maîtresse, il l'ajoute à sa « collection d'instruments dans sa chambre de torture privée ». endTok	0.0018710168971705456
+startTok Il faut admettre que Swann et Proust étaient notoirement jaloux. endTok	0.23505403213046533
+startTok Vous savez. Les petits amis de Proust devaient quitter le pays s'ils voulaient rompre avec lui. endTok	0.08647154598524984
+startTok Mais sans être jaloux à ce point, on peut admettre que la tâche est rude, non ? endTok	0.08647154598524984
+startTok La jalousie est épuisante. endTok	0.6389431042462724
+startTok C'est une émotion exigeante. Elle doit être nourrie. endTok	0.3280443278078623
+startTok Qu'aime donc la jalousie ? endTok	0.6389431042462724
+startTok La jalousie aime l'information. endTok	0.6389431042462724
+startTok La jalousie aime les détails. endTok	0.5408536609893481
+startTok La jalousie aime les épaisses chevelures très brillantes, les mignonnes petites trousses. endTok	0.16842357369809585
+startTok La jalousie aime les photos. endTok	0.5408536609893481
+startTok C'est ce qui explique le succès d'Instagram. endTok	0.38753858253732953
+startTok Proust fait le lien entre le langage érudit et la jalousie. endTok	0.19896894256029013
+startTok Lorsque Swann est dans les affres de la jalousie, et que soudain il écoute aux portes, et qu'il soudoie les serviteurs de sa maîtresse, il justifie ces comportements. endTok	0.011702651167821564
+startTok Il dit : « Ecoutez, je sais que vous pensez que c'est répugnant, mais ce n'est pas différent de la traduction d'un texte ancien, ou de l'observation d'un monument. » endTok	0.009906080346330753
+startTok Il dit : « Ce sont des investigations scientifiques, avec une réelle valeur intellectuelle. » endTok	0.12068076399341783
+startTok Proust essaie de nous montrer que la jalousie semble impardonnable, et donne l'air absurde, mais qu'elle est, fondamentalement, une quête de savoir, une quête de vérité, de vérité qui fait mal, et en fait, en ce qui concerne Proust, plus la vérité fait mal, mieux c'est. endTok	0.0005826406937775951
+startTok Le chagrin, l'humiliation, la perte : c'était, pour Proust, les chemins de la sagesse. endTok	0.14256747717620566
+startTok Il dit : « Une femme que l'on désire, qui nous fait souffrir, suscite en nous une gamme de sentiments bien plus profonds et vitaux qu'un homme de génie qui nous intéresse. » endTok	0.006008341447626345
+startTok Est-ce qu'il nous conseille d'aller trouver des femmes cruelles ? endTok	0.23505403213046533
+startTok Non. Je pense qu'il essaie de dire que la jalousie nous révèle à nous-mêmes. endTok	0.10215406126626542
+startTok Y-a-t-il une autre émotion qui brise notre armure de façon aussi particulière ? endTok	0.10215406126626542
+startTok Y-a-t-il une autre émotion qui nous révèle ainsi notre propre agressivité, notre affreuse ambition, et nos droits ? endTok	0.04439597201804127
+startTok Y-a-t-il une autre émotion qui nous apprenne à observer avec une telle étrange intensité ? endTok	0.07319658339955233
+startTok Freud écrira sur ce sujet plus tard. endTok	0.38753858253732953
+startTok Un jour, Freud reçut la visite d'un très anxieux jeune homme qui était dévoré par l'idée que sa femme le trompait. endTok	0.037580378972027005
+startTok Et Freud a dit, il y a quelque chose de bizarre chez ce type, parce qu'il ne regarde pas ce que sa femme fait. endTok	0.022793652050154326
+startTok Parce qu'elle est innocente ; tout le monde le sait. endTok	0.27768352844338134
+startTok La pauvre femme est soupçonnée sans raison. endTok	0.38753858253732953
+startTok Mais il remarque ce que sa femme fait sans y prendre garde, des comportements involontaires. endTok	0.10215406126626542
+startTok Est-ce qu'elle sourit trop largement ici, ou bien est-ce qu'elle frôle un homme par inadvertance, là ? endTok	0.061959570172152735
+startTok Freud dit que l'homme devient le gardien de l'inconscient de sa femme. endTok	0.16842357369809585
+startTok Le roman excelle dans ce domaine. endTok	0.45782273986766686
+startTok Le roman excelle à décrire comment la jalousie nous apprend à regarder avec intensité, mais sans exactitude. endTok	0.07319658339955233
+startTok En fait, plus nous sommes violemment jaloux, plus nous nourrissons de fantasmes. endTok	0.16842357369809585
+startTok C'est la raison pour laquelle, je crois, la jalousie ne nous pousse pas seulement à commettre des actes violents, ou des actes illégaux. endTok	0.026927518196686172
+startTok La jalousie nous invite à adopter des comportements frénétiquement inventifs. endTok	0.23505403213046533
+startTok Je pense à moi-même à l'âge de huit ans, je l'avoue, mais je pense également à cette histoire que j'ai entendue aux infos. endTok	0.022793652050154326
+startTok Une habitante du Michigan, âgée de 52 ans, a été prise à créer un faux compte Facebook avec lequel elle s'est envoyé à elle même, pendant un an, des messages abominables, horribles. endTok	0.006008341447626345
+startTok Pendant un an. Un an. endTok	0.5408536609893481
+startTok Elle essayait de faire accuser la nouvelle petite amie de son ex, et je dois dire que quand j'ai entendu ça, je n'ai pu éprouver que de l'admiration. endTok	0.011702651167821564
+startTok Parce que, je veux dire, soyons sérieux. endTok	0.38753858253732953
+startTok Quelle immense inventivité, même mal placée, non ? endTok	0.38753858253732953
+startTok On se croirait dans un roman. endTok	0.45782273986766686
+startTok On se croirait dans un roman de Patricia Highsmith. endTok	0.27768352844338134
+startTok J'ai une préférence particulière pour Highsmith. endTok	0.45782273986766686
+startTok C'est une femme de lettres américaine tellement brillante et étrange. endTok	0.23505403213046533
+startTok Elle est l'auteur de « L'Inconnu du Nord-Express ». et de « Monsieur Ripley », des livres qui ne parlent que de jalousie, de la façon dont elle brouille nos esprits, et de comment, une fois sous son influence, dans ce royaume de la jalousie, la membrane entre ce qui est et ce qui pourrait être peut être transpercée en un instant. endTok	3.4268869843295575e-05
+startTok Prenez Tom Ripley, son plus célèbre personnage. endTok	0.38753858253732953
+startTok Tom Ripley commence par vous désirer, ou désirer ce que vous possédez, puis il prend votre place et s'attribue ce qui était à vous, vous finissez entre quatre planches, il répond à votre nom, il porte votre bague, il vide votre compte en banque. endTok	0.0008131405915967908
+startTok C'est une façon de faire. endTok	0.5408536609893481
+startTok Mais qu'est-ce qu'on peut faire, nous ? On ne peut pas suivre le chemin de Tom Ripley. endTok	0.07319658339955233
+startTok Je ne peux pas donner des D au monde entier, même si j'en ai vraiment envie, certains jours. endTok	0.061959570172152735
+startTok Et c'est bien dommage, car nous vivons une époque de convoitise. endTok	0.19896894256029013
+startTok Nous vivons une époque de jalousie. endTok	0.45782273986766686
+startTok Je veux dire, nous sommes tous de bons pratiquants des réseaux sociaux, où la jalousie est monnaie courante n'est-ce pas ? endTok	0.037580378972027005
+startTok Est-ce que les romans nous indiquent une issue à ce problème ? Je m'interroge. endTok	0.12068076399341783
+startTok Faisons donc ce que font tous les personnages quand ils s'interrogent, quand ils sont face à un mystère. endTok	0.061959570172152735
+startTok Allons au numéro 221 B de Baker Street, et demandons Sherlock Holmes. endTok	0.16842357369809585
+startTok Quand on pense à Holmes, on pense à sa Némésis, le Professeur Moriarty, oui, ce génie criminel. endTok	0.07319658339955233
+startTok Mais j'ai toujours préféré l'Inspecteur Lestrade, le patron de Scotland Yard, avec sa face de rat, qui a terriblement besoin de Holmes, besoin du génie de Holmes, mais qui lui en veut. endTok	0.006008341447626345
+startTok Comme je comprends ça ! endTok	0.6389431042462724
+startTok Lestrade a besoin de son aide, il lui en veut, et ne fait que ressasser son amertume tout au long des romans. endTok	0.031811104014284386
+startTok Mais au fur et à mesure de leur collaboration, quelque chose commence à changer, et finalement, dans « Les Six Napoléons », lorsque Holmes arrive et éblouit tout le monde avec sa solution, Lestrade se tourne vers lui, et lui dit : « Nous ne sommes pas jaloux de vous, M. Holmes, endTok	0.0002532146017190638
+startTok Nous sommes très fiers de vous. » endTok	0.38753858253732953
+startTok Et il ajoute qu'il n'y aurait pas un homme à Scotland Yard qui ne serait heureux de serrer la main de Sherlock Holmes. endTok	0.026927518196686172
+startTok C'est l'une des rares fois où l'on voit Holmes être touché, dans les romans, et je trouve cela très émouvant, cette petite scène, mais c'est également mystérieux, non ? endTok	0.011702651167821564
+startTok On dirait que la jalousie y est considérée comme un problème de géométrie, pas comme une émotion. endTok	0.07319658339955233
+startTok Vous voyez, à un moment Holmes est à l'opposé de Lestrade. endTok	0.19896894256029013
+startTok Et l'instant d'après, ils sont du même bord. endTok	0.3280443278078623
+startTok Tout à coup, Lestrade se laisse aller à admirer cet homme qui lui déplaisait. endTok	0.12068076399341783
+startTok Serait-ce aussi simple que cela ? endTok	0.45782273986766686
+startTok Et si la jalousie n'était vraiment qu'une question de géométrie, qu'une question d'endroit où l'on s'autorise à se tenir dans notre relation à l'autre ? endTok	0.022793652050154326
+startTok Eh bien, peut-être qu'alors nous n'aurions pas besoin de mal prendre l'excellence d'autrui ? endTok	0.12068076399341783
+startTok On pourrait en prendre modèle. endTok	0.5408536609893481
+startTok Mais j'aime avoir une solution d'urgence. endTok	0.45782273986766686
+startTok Donc, en attendant que cela se produise, souvenons-nous que nous pouvons trouver une consolation dans la fiction. endTok	0.061959570172152735
+startTok Seule la fiction démystifie la jalousie. endTok	0.45782273986766686
+startTok Seule la fiction la dompte, l'invite à notre table. endTok	0.27768352844338134
+startTok Et regardez ceux qu'elle rassemble : le gentil Lestrade, le terrifiant Tom Ripley, ce fou de Swann, Marcel Proust lui-même. endTok	0.04439597201804127
+startTok Nous sommes en excellente compagnie. endTok	0.5408536609893481
+startTok Merci. endTok	0.6389431042462724
+startTok J'avais à peu près 10 ans en camping avec mon père dans le massif des Adirondacks, une zone de nature sauvage dans la partie nord de l'état de New York. endTok	0.008385315978467074
+startTok C'était une belle journée. endTok	0.6389431042462724
+startTok La forêt était étincelante. endTok	0.6389431042462724
+startTok Le soleil faisait briller les feuilles comme des vitraux et si ce n'était le chemin que nous suivions, nous aurions pu presque prétendre être les premiers êtres humains à marcher sur cette terre. endTok	0.00508595123231852
+startTok Nous sommes arrivés au camping. endTok	0.5408536609893481
+startTok C'était un appentis sur une falaise donnant sur un beau lac limpide, quand j'ai découvert une horreur. endTok	0.07319658339955233
+startTok Derrière l'appentis, il y avait un tas d'ordure, peut-être 4 m², avec des trognons de pomme en train de pourir, des boules de papier aluminium, et une basket défoncée. endTok	0.008385315978467074
+startTok J'étais stupéfaite, j'étais très en colère et profondément perplexe. endTok	0.27768352844338134
+startTok Les campeurs qui étaient trop paresseux pour emporter ce qu'ils avaient amené qui pensaient-ils allait nettoyer après eux ? endTok	0.0524476438328049
+startTok Cette question m'est restée, un peu simplifiée. endTok	0.38753858253732953
+startTok Qui nettoie après nous ? endTok	0.6389431042462724
+startTok On peut la retourner dans tous les sens, où qu'on place le 'nous', qui nettoie après nous à Istanbul ? endTok	0.0524476438328049
+startTok Qui nettoie après nous à Rio ou à Paris ou à Londres ? endTok	0.16842357369809585
+startTok Ici, à New York, le service sanitaire nettoie après nous, à hauteur de 11 000 tonnes d'ordures et 2000 tonnes de matières recyclables tous les jours. endTok	0.016332365376260007
+startTok Je voulais les connaître en tant qu'individus. endTok	0.38753858253732953
+startTok Je voulais comprendre qui se charge de la tâche. endTok	0.27768352844338134
+startTok Qu'est-ce que c'est que de porter l'uniforme et porter ce fardeau ? endTok	0.16842357369809585
+startTok Alors j'ai commencé un projet de recherche avec eux. endTok	0.27768352844338134
+startTok Je roulais dans les camions et parcourais les routes, j'interviewais les gens dans les bureaux et les établissements partout dans la ville, et j'ai beaucoup appris, mais je restais une étrangère. endTok	0.007098016733205634
+startTok Il me fallait aller plus loin. endTok	0.45782273986766686
+startTok J'ai donc pris le travail en tant qu'éboueur. endTok	0.3280443278078623
+startTok Je ne montais pas seulement dans les camions. Je les conduisais. endTok	0.19896894256029013
+startTok J'ai utilisé les balais mécaniques et j'ai déneigé. endTok	0.3280443278078623
+startTok Ça a été un formidable privilège et une éducation incroyable. endTok	0.23505403213046533
+startTok Tout le monde pose la question de l'odeur. endTok	0.3280443278078623
+startTok Elle est là, mais ce n'est pas aussi fréquente que vous le pensez, et les jours où ça sent vraiment mauvais, vous vous y habituez assez vite. endTok	0.013825048815240323
+startTok Il faut longtemps pour s'habituer au poids. endTok	0.38753858253732953
+startTok J'ai connu des personnes qui travaillaient depuis des années dont les corps commençaient à peine à s'adapter au poids de porter des tonnes de déchets chaque semaine. endTok	0.013825048815240323
+startTok Ensuite il y a le danger. endTok	0.45782273986766686
+startTok Selon l'Agence américaine de statistiques du travail, le travail d'éboueur est une des 10 professions plus dangereuse du pays, et j'ai appris pourquoi. endTok	0.026927518196686172
+startTok Vous êtes dans la circulation toute la journée, et ça passe à toute allure de tous les côtés autour de vous. endTok	0.037580378972027005
+startTok Ils veulent juste vous dépasser, donc souvent les automobilistes ne font pas attention. endTok	0.14256747717620566
+startTok C'est vraiment mauvais pour le travailleur. endTok	0.45782273986766686
+startTok Et puis les ordures elles-même sont pleines de dangers qui souvent ressortent du camion et font terriblement mal. endTok	0.0524476438328049
+startTok J'ai aussi compris l'acharnement des ordures. endTok	0.45782273986766686
+startTok Quand vous descendez du trottoir et voyez une ville depuis l'arrière d'un camion, vous comprenez que les ordures sont comme une force de la nature à part entière. endTok	0.011702651167821564
+startTok Elles ne s'arrêtent jamais. endTok	0.6389431042462724
+startTok Elles sont aussi comme une forme de respiration ou de circulation. endTok	0.19896894256029013
+startTok Elles doivent toujours être en mouvement. endTok	0.45782273986766686
+startTok Et puis, il y a la stigmatisation. endTok	0.38753858253732953
+startTok Vous mettez l'uniforme, et vous devenez invisible jusqu'à ce que quelqu'un soit en colère contre vous pour une raison quelconque, comme avoir bloqué la circulation avec votre camion, ou parce que vous faites une pause trop près de chez eux, ou buvez en café dans leur bar, et ils viennent vous montrer leur mépris et vous dire qu'ils ne vous veulent pas près d'eux. endTok	2.9007972055004806e-05
+startTok Je trouve la stigmatisation particulièrement ironique, parce que je crois que les éboueurs sont la plus population active la plus importante dans les rues de la ville, pour trois raisons. endTok	0.008385315978467074
+startTok Ce sont les premiers gardiens de la santé publique. endTok	0.27768352844338134
+startTok S'ils n'emmènent pas les ordures efficacement tous les jours, elles commencent à déborder de leurs poubelles, et les dangers qui s'en suivent nous menacent réellement. endTok	0.019294409903971108
+startTok Les maladies que nous avons sous contrôle pendant des décennies et des siècles réapparaissent à nouveau et commencer à nuire. endTok	0.04439597201804127
+startTok L'économie a besoin d'eux. endTok	0.6389431042462724
+startTok Si nous ne pouvons pas jeter les vieilles choses, nous n'aurons pas de place pour les nouvelles, ainsi, les moteurs de l'économie commencent à s'emballer lorsque la consommation est compromise. endTok	0.008385315978467074
+startTok Je ne défends pas le capitalisme, je souligne juste leur relation. endTok	0.19896894256029013
+startTok Et puis il y a ce que j'appelle notre vitesse quotidienne moyenne nécessaire. endTok	0.14256747717620566
+startTok J'entends par là tout simplement à quelle vitesse nous sommes habitués à nous déplacer dans l'époque contemporaine. endTok	0.07319658339955233
+startTok Habituellement nous ne nous soucions pas de réparer, nettoyer, transporter notre tasse de café, nos cabas, notre bouteille d'eau. endTok	0.0524476438328049
+startTok Nous les utilisons, nous les jetons, nous les oublions, parce que nous savons qu'il y a des gens qui travaillent de l'autre côté qui vont tout emporter. endTok	0.013825048815240323
+startTok Je tiens donc à proposer aujourd'hui deux façons de penser à l'assainissement qui contribueront peut-être à atténuer la stigmatisation et les ramener dans cette conversation sur comment concevoir une ville durable et humaine. endTok	0.004305164771842524
+startTok Leur travail, je pense, est un peu liturgique. endTok	0.3280443278078623
+startTok Ils sont dans les rues tous les jours, de façon rythmique. endTok	0.19896894256029013
+startTok Ils portent un uniforme dans de nombreuses villes. endTok	0.3280443278078623
+startTok Vous savez quand vous attendre à les voir. endTok	0.3280443278078623
+startTok Et leur travail nous permet de faire notre travail. endTok	0.27768352844338134
+startTok Ils sont presque une forme de réconfort. endTok	0.38753858253732953
+startTok Le flux qu'ils entretiennent nous protège de nous-mêmes, de notre crasse, de nos vieilles fringues, et ce flux doit être maintenu en permanence quoi qu'il arrive. endTok	0.013825048815240323
+startTok Le jour suivant le 11 septembre en 2001, j'ai entendu le grondement d'un camion poubelle dans la rue, j'ai attrapé mon bébé, je suis descendue en courant et il y avait un homme qui faisait son circuit de collecte du papier à recycler comme il le faisait tous les mercredis. endTok	0.0002991377064304437
+startTok J'ai essayé de le remercier pour son travail ce jour-là en particulier, mais j'ai commencé à pleurer. endTok	0.061959570172152735
+startTok Il m'a regardé, il a juste hoché la tête et il a dit : « Tout va bien se passer. endTok	0.061959570172152735
+startTok Tout va bien se passer. » endTok	0.45782273986766686
+startTok C'est un peu plus tard que j'ai commencé mes recherches sur le nettoyage, et j'ai rencontré à nouveau cet homme. endTok	0.04439597201804127
+startTok Il s'appelle Paulie, nous avons travaillé ensemble plusieurs fois, et nous sommes devenus bons amis. endTok	0.10215406126626542
+startTok Je veux croire que Paulie avait raison. endTok	0.38753858253732953
+startTok Tout va bien se passer. endTok	0.5408536609893481
+startTok Mais dans l'effort pour réorganiser la manière dont nous existons en tant qu'espèce sur cette planète, nous devons prendre en compte tous les coûts, y compris le coût très réel du travail. endTok	0.006008341447626345
+startTok Et nous ferions bien de tendre la main aux gens qui font ce travail et prendre leur avis d'experts sur la manière dont nous concevons, la manière dont nous créons des systèmes autour de la durabilité qui nous emmènent peut-être de la collecte sur les trottoirs, qui est une réussite remarquable des 40 dernières années, à travers les États-Unis et dans d'autres pays du monde, à nous élever vers un horizon plus large où nous considérons d'autres formes de déchets, provenant de sources industrielles et de construction, .qui pourraient être diminuées endTok	2.309018287226839e-07
+startTok Les déchets municipaux, ce à quoi nous pensons quand on parle d'ordures, 3%représentent 3 % du flux des déchets du pays. endTok	0.037580378972027005
+startTok C'est une statistique remarquable. endTok	0.6389431042462724
+startTok Ainsi, dans le courant de vos journées, dans le courant de vos vies, la prochaine fois que vous voyez quelqu'un dont le travail est de nettoyer après vous, prenez le temps de vous montrer reconnaissant. endTok	0.003644243302007566
+startTok Prenez le temps de dire merci. endTok	0.45782273986766686
+startTok Bonjour, TEDWomen, ça va ? endTok	0.6389431042462724
+startTok C'est pas encore ça. endTok	0.6389431042462724
+startTok Bonjour, TEDWomen, comment ça va ? endTok	0.5408536609893481
+startTok Je m'appelle Maysoon Zayid, et je ne suis pas saoule, mais le docteur qui m'a fait naître l'était. endTok	0.061959570172152735
+startTok Il a ouvert ma mère à six reprises, en six endroits différents, ce qui a eu pour conséquence de m'asphyxier dans l'opération. endTok	0.031811104014284386
+startTok Résultat : j'ai une paralysie cérébrale, ce qui veut dire que je tremble tout le temps. endTok	0.10215406126626542
+startTok Regardez. endTok	0.6389431042462724
+startTok C'est épuisant. Je suis comme Shakira, Shakira qui rencontre Mohammed Ali. endTok	0.19896894256029013
+startTok La paralysie cérébrale n'est pas génétique. endTok	0.45782273986766686
+startTok Ce n'est pas une anomalie congénitale. Vous ne pouvez pas l'attraper. endTok	0.19896894256029013
+startTok Personne n'a jeté de sort sur l'utérus de ma mère, et je n'ai pas eu ça parce que mes parents étaient cousins au premier degré, même s'ils le sont. endTok	0.009906080346330753
+startTok Ça n'arrive que par un accident, comme celui qui m'est arrivé le jour de ma naissance. endTok	0.08647154598524984
+startTok Je préfère vous prévenir, je ne suis pas un exemple, et je ne veux pas que quiconque dans cette salle me plaigne, parce ce qu'il y a sûrement eu un moment dans votre vie, où vous avez rêvé d'être handicapé. endTok	0.0015837816104164078
+startTok Imaginez. endTok	0.6389431042462724
+startTok C'est la veille de Noël, vous êtes au centre commercial, vous tournez en rond pour trouver une place de parking, et qu'est-ce que vous voyez ? endTok	0.016332365376260007
+startTok Seize places pour handicapés, vides. endTok	0.5408536609893481
+startTok Et vous vous dites, « Mon dieu, pourquoi ne suis-je pas rien qu'un petit peu invalide ? » endTok	0.061959570172152735
+startTok Et puis, il faut que je vous dise, j'ai des tonnes de problèmes, la paralysie n'en est qu'un parmi 99 autres. endTok	0.037580378972027005
+startTok S'il y avait des Jeux Olympiques de l'Oppression, je gagnerais la médaille d'or. endTok	0.14256747717620566
+startTok Je suis Palestinienne, Musulmane, je suis une femme, je suis invalide, et je vis dans le New Jersey. endTok	0.061959570172152735
+startTok Ça devrait vous aider à vous sentir mieux dans votre peau. endTok	0.19896894256029013
+startTok J'ai grandi à Cliffside Park, dans le New Jersey. endTok	0.27768352844338134
+startTok J'ai toujours aimé le fait que mon quartier et mon affection partagent les même initiales. endTok	0.10215406126626542
+startTok J'aime aussi le fait que si je voulais marcher de ma maison jusqu'à New York, je pouvais. endTok	0.07319658339955233
+startTok Beaucoup de gens qui ont une paralysie cérébrale ne peuvent pas marcher, mais mes parents n'acceptaient pas qu'on leur dise « je ne peux pas ». endTok	0.022793652050154326
+startTok Le mantra de mon père était, « Tu peux le faire, oui, tu peux pouvoir. » endTok	0.08647154598524984
+startTok Donc, si mes trois sœurs aînées passaient la serpillière, je passais la serpillière. endTok	0.14256747717620566
+startTok Si mes trois sœurs aînées allaient à l'école publique, mes parents portaient plainte contre le système scolaire pour obtenir que j'y aille aussi, et si nous n'avions pas tous des A, on se prenait tous les coups de savate de ma mère. endTok	0.0011348291129743356
+startTok Mon père m'a appris à marcher quand j'avais 5 ans en plaçant mes talons sur ses pieds et en marchant, simplement. endTok	0.037580378972027005
+startTok Une autre tactique qu'il utilisait était d'agiter un billet de un dollar devant moi, et je devais l'attraper. endTok	0.061959570172152735
+startTok La strip-teaseuse en moi était très forte, et à ... Oui. A mon entrée en maternelle, je marchais déjà comme une championne qui a pris un coup de trop. endTok	0.009906080346330753
+startTok Quand j'était petite, il n'y avait que six arabes dans ma ville, et ils faisaient tous partie de ma famille. endTok	0.04439597201804127
+startTok Maintenant, il y a vingt arabes en ville, et ils sont encore tous de ma famille. endTok	0.08647154598524984
+startTok Je crois que personne ne s'est même rendu compte que nous n'étions pas italiens. endTok	0.12068076399341783
+startTok C'était avant le 11 septembre, et avant que les politiciens ne se mettent à penser qu'il était bon d'avoir comme slogan de campagne « Je déteste les musulmans ». endTok	0.009906080346330753
+startTok Ma foi ne posait aucun problème aux gens avec qui j'ai grandi. endTok	0.16842357369809585
+startTok En revanche, ils avaient très peur que je meure de faim pendant le Ramadan. endTok	0.12068076399341783
+startTok Je leur expliquais que j'avais assez de graisse pour vivre dessus pendant trois mois entiers, et que donc, jeûner du lever au coucher du soleil, c'était du gâteau. endTok	0.011702651167821564
+startTok J'ai fait des claquettes à Broadway. endTok	0.45782273986766686
+startTok Oui, à Broadway. C'est fou. endTok	0.5408536609893481
+startTok Mes parents ne pouvaient pas me payer de rééducation, alors ils m'ont envoyée dans une école de danse. endTok	0.061959570172152735
+startTok J'ai appris à danser en talons hauts, ce qui veut dire que je peux marcher en talons hauts. endTok	0.061959570172152735
+startTok Et je viens du New Jersey, où l'on accorde beaucoup d'importance à l'élégance, alors si mes amies portaient des talons hauts, moi aussi. endTok	0.026927518196686172
+startTok Et tandis que mes amis allaient passer leurs grandes vacances sur la côte du New Jersey, pas moi. endTok	0.061959570172152735
+startTok Je passais mes étés dans une zone de guerre, parce que mes parents craignaient que si on ne retourne pas chaque été en Palestine, on finirait comme Madonna. endTok	0.011702651167821564
+startTok Mon père passait souvent les grandes vacances à essayer de me guérir, j'ai donc bu du lait de biche, on m'a posé des ventouses sur le dos, j'ai été plongée dans la Mer Morte, et je me souviens que l'eau me brûlait les yeux, et que je pensais : « Ça marche ! Ça marche ! » endTok	0.0001535824194295355
+startTok Mais nous avons trouvé un remède miracle : le yoga. endTok	0.27768352844338134
+startTok Je dois vous dire, c'est très chiant, mais avant de faire du yoga, j'étais une comique de stand-up qui ne tenait pas debout. endTok	0.022793652050154326
+startTok Maintenant, je peux faire le poirier. endTok	0.45782273986766686
+startTok Mes parents m'ont inculqué l'idée que je pouvais tout réussir, qu'aucun rêve n'était hors de ma portée, et mon rêve était de jouer dans la série « Hôpital Central ». endTok	0.008385315978467074
+startTok Je suis allée à la fac grâce à la discrimination positive et j'ai eu une bonne bourse pour l'ASU, l'Université d'Etat d'Arizona, parce que je remplissais chacun des quotas. endTok	0.009906080346330753
+startTok J'étais la mascotte de la section théâtre. endTok	0.38753858253732953
+startTok Tout le monde m'aimait. endTok	0.6389431042462724
+startTok Je faisais les devoirs des enfants pas très intelligents, j'ai eu des A à tous mes examens, et des A à tous leurs examens. endTok	0.022793652050154326
+startTok Chaque fois que je jouais une scène de « La Ménagerie de Verre » mes professeurs pleuraient. endTok	0.07319658339955233
+startTok Mais je n'ai jamais obtenu de rôle. endTok	0.38753858253732953
+startTok Finalement, pendant ma dernière année, l'ASU a décidé de monter un spectacle appelé « They Dance Real Slow in Jackson ». endTok	0.037580378972027005
+startTok C'est une pièce sur une fille qui a une paralysie cérébrale. endTok	0.19896894256029013
+startTok Je suis une fille qui a une paralysie cérébrale. endTok	0.27768352844338134
+startTok J'ai commencé à crier sur tous les toits, « Je vais enfin avoir un rôle ! endTok	0.10215406126626542
+startTok J'ai une paralysie cérébrale ! endTok	0.6389431042462724
+startTok Enfin libre ! Enfin libre ! endTok	0.6389431042462724
+startTok Merci Dieu tout puissant, je suis enfin libre ! » endTok	0.27768352844338134
+startTok Je n'ai pas eu le rôle. endTok	0.45782273986766686
+startTok Sherry Brown a eu le rôle. endTok	0.45782273986766686
+startTok J'ai couru voir la directrice de la section théâtre en sanglotant éperdument, comme si on venait de tuer mon chat, je lui ai demandé pourquoi, et elle m'a répondu que c'était parce qu'ils pensaient que je ne pourrais pas faire les cascades. endTok	0.0011348291129743356
+startTok J'ai dit, « Excusez-moi, mais si je ne peux pas faire les cascades, le personnage non plus. » endTok	0.0524476438328049
+startTok J'étais littéralement née pour ce rôle, et ils le lui ont donné, ils l'ont donné à une actrice non paralysée. endTok	0.04439597201804127
+startTok L'université ne faisait qu'imiter la vie. endTok	0.45782273986766686
+startTok Hollywood a la sordide habitude de prendre des acteurs non-handicapés pour jouer des infirmes à l'écran. endTok	0.07319658339955233
+startTok Dès que j'ai été diplômée, je suis revenue à la maison, et ma première prestation d'actrice a été une figuration dans une série quotidienne. endTok	0.022793652050154326
+startTok Mon rêve devenait réalité. endTok	0.6389431042462724
+startTok J'étais sûre que je serais promue du rôle de « copine » à celui de « meilleure amie timbrée » en un rien de temps. endTok	0.019294409903971108
+startTok Au lieu de ça, je suis restée une potiche dont on n'aurait pu reconnaître que la nuque. J'ai vite compris que les directeurs de casting ne recrutaient pas d'actrices pulpeuses, ethniques et handicapées. endTok	0.00508595123231852
+startTok Ils ne recrutent que les gens parfaits. endTok	0.38753858253732953
+startTok Mais il y avait des exceptions à la règle. endTok	0.27768352844338134
+startTok J'ai grandi en regardant Whoopi Goldberg, Roseanne Barr, Ellen, et toutes ces femmes avaient une chose en commun : elles étaient comiques. endTok	0.037580378972027005
+startTok Je suis donc devenue humoriste. endTok	0.5408536609893481
+startTok Mon premier contrat a été de conduire des humoristes célèbres de New York à des spectacles dans le New Jersey, et je n'oublierai jamais la tête du premier humoriste que j'ai conduit lorsqu'il a compris qu'il fonçait sur l'autoroute du New Jersey avec au volant une fille atteinte de paralysie cérébrale. endTok	0.0002532146017190638
+startTok Je me suis produite dans des clubs partout en Amérique, et j'ai aussi joué en arabe au Moyen-orient, non censurée et non voilée. endTok	0.022793652050154326
+startTok Certaines personnes disent que je suis la première humoriste de stand-up du monde arabe. endTok	0.10215406126626542
+startTok Je n'ai jamais aimé dire prems', mais je sais qu'ils n'avaient jamais entendu cette sale petite rumeur selon laquelle les femmes ne sont pas drôles, et qu'ils nous trouvent tordantes. endTok	0.008385315978467074
+startTok En 2003, mon frère issu d'une autre mère et d'un autre père, Dean Obeidallah et moi-même, avons créé le Festival du Rire Arabo-Américain de New York, qui en est à sa dixième année maintenant. endTok	0.003084785356204433
+startTok Notre objectif était de changer l'image négative des Arabes Américains dans les média, et de rappeler aussi aux directeurs de casting que sud-asiatique et arabe ne sont pas des synonymes. endTok	0.007098016733205634
+startTok Intégrer les arabes a été beaucoup plus facile que relever le défi de la stigmatisation des handicapés. endTok	0.07319658339955233
+startTok Ma grande percée a eu lieu en 2010. endTok	0.3280443278078623
+startTok On m'a proposé d'être une invitée dans l'émission d'information du câble « Countdown With Keith Olbermann ». endTok	0.07319658339955233
+startTok J'ai fait mon entrée comme si j'allais au bal de fin d'année, ils m'ont traînée dans un studio, et ils m'ont assise sur un fauteuil à roulettes pivotant. endTok	0.011702651167821564
+startTok J'ai regardé la régisseuse de plateau et je lui ai dit, « Excusez-moi, est-ce que je pourrais avoir un autre fauteuil ? » endTok	0.022793652050154326
+startTok Elle m'a regardé et a commencé, « Cinq, quatre, trois, deux... » endTok	0.16842357369809585
+startTok Et on était en direct, vous voyez ? endTok	0.38753858253732953
+startTok J'ai donc dû m'agripper au bureau du présentateur pour ne pas rouler hors de l'écran pendant la séquence, et lorsque l'interview a été terminé, j'étais blême. endTok	0.016332365376260007
+startTok J'avais finalement eu ma chance et je l'avais gâchée, je savais que je ne serais plus jamais invitée. endTok	0.061959570172152735
+startTok Non seulement M. Olbermann m'a réinvitée, mais il a fait de moi une collaboratrice à temps plein, et il a scotché ma chaise. endTok	0.026927518196686172
+startTok Un truc que j'ai appris en étant à l'antenne, avec Keith Olbermann, c'est que les êtres humains sur Internet sont des pourritures. endTok	0.031811104014284386
+startTok Les gens disent que les enfants sont cruels, mais on ne s'était jamais moqué de moi, ni enfant ni adulte. endTok	0.04439597201804127
+startTok Soudain, mon handicap est devenu une cible idéale sur le Web. endTok	0.19896894256029013
+startTok Je regardais les vidéos en ligne, et je voyais des commentaires comme : « Pourquoi est-ce qu'elle tremble ? » endTok	0.0524476438328049
+startTok « Elle est attardée ou quoi ? » endTok	0.38753858253732953
+startTok Et ma préférée : « Pauvre bouffonne terroriste. endTok	0.38753858253732953
+startTok De quoi souffre-t-elle ? endTok	0.5408536609893481
+startTok On devrait vraiment prier pour elle. » endTok	0.38753858253732953
+startTok Un des auteurs de commentaires a même suggéré que j'ajoute mon handicap à ma carte de visite : auteur, humoriste, paralysée. endTok	0.04439597201804127
+startTok Le handicap est aussi visuel que la race. endTok	0.3280443278078623
+startTok Si quelqu'un en fauteuil roulant ne peut pas jouer Beyoncé, alors Beyoncé ne peut pas jouer quelqu'un en fauteuil roulant. endTok	0.04439597201804127
+startTok Les handicapés sont la plus grande... Oui, vous pouvez applaudir. Allez-y ! endTok	0.16842357369809585
+startTok Les gens avec des handicaps constituent la plus grande minorité au monde, et nous sommes les plus sous-représentés dans le spectacle. endTok	0.031811104014284386
+startTok Les docteurs disaient que je ne marcherais jamais, mais je suis là, devant vous. endTok	0.12068076399341783
+startTok Cependant, si j'avais grandi avec les réseaux sociaux, je ne crois pas que je serai là. endTok	0.08647154598524984
+startTok J'espère que tous ensemble nous pourrons créer une image plus positive du handicap dans les médias et dans la vie quotidienne. endTok	0.037580378972027005
+startTok Peut-être que si l'on voyait plus d'images positives, ça encouragerait moins la haine sur Internet. endTok	0.08647154598524984
+startTok Ou peut-être pas. endTok	0.6389431042462724
+startTok Peut-être qu'il faut encore un village pour enseigner le bien à nos enfants. endTok	0.12068076399341783
+startTok Mon voyage tortueux m'a emmenée dans des endroits très spectaculaires. endTok	0.23505403213046533
+startTok J'ai foulé le tapis rouge aux côté de la star de série Susan Lucci et de l'emblématique Lorraine Arbus. endTok	0.0524476438328049
+startTok J'ai eu un rôle dans un film avec Adam Sandler et j'ai travaillé avec mon idole, l'incroyable Dave Matthews. endTok	0.0524476438328049
+startTok Je suis partie en tournée dans le monde comme tête d'affiche du festival « Les Arabes se Lâchent ». endTok	0.07319658339955233
+startTok J'ai été déléguée pour représenter le grand état du New Jersey à la Convention Nationale Démocrate de 2008. endTok	0.061959570172152735
+startTok Et j'ai fondé « Les enfants de Maysoon » une œuvre de charité qui espère donner aux enfants réfugiés palestiniens une infime partie de la chance que mes parents m'ont donnée. endTok	0.007098016733205634
+startTok Mais le moment qui compte le plus a été lorsque j'ai -- Avant maintenant -- Mais le moment qui compte le plus pour moi, c'est lorsque j'ai joué pour l'homme qui volait comme un papillon et piquait comme une abeille, qui est atteint de Parkinson et tremble, tout comme moi, Mohamed Ali. endTok	0.0002991377064304437
+startTok C'est la seule et unique fois où mon père m'a vue jouer sur scène, et je dédie cette conférence à sa mémoire. endTok	0.031811104014284386
+startTok Mon nom est Maysoon Zayid, et si je peux pouvoir, alors vous pouvez pouvoir. endTok	0.12068076399341783
+startTok Dans le passé, nous avons résolu de grands problèmes. endTok	0.27768352844338134
+startTok Le 21 Juillet 1969 Buzz Aldrin est sorti du module lunaire d'Apollo 11 et est descendu dans la Mer de la Tranquillité. endTok	0.031811104014284386
+startTok Armstrong et Aldrin étaient seuls, mais leur présence sur la surface grise de la Lune, était l'aboutissement d'un effort collectif, convulsif. endTok	0.037580378972027005
+startTok Le programme Apollo a permis la mobilisation la plus importante en période de paix, de l'Histoire des États-Unis. endTok	0.0524476438328049
+startTok Pour se rendre sur la Lune, la NASA a dépensé environ 180 milliards de dollars actuels, soit 4 % du budget fédéral. endTok	0.037580378972027005
+startTok Apollo a employé environ 400 000 personnes et a requis la collaboration de 20 000 entreprises, universités et organismes gouvernementaux. endTok	0.04439597201804127
+startTok Des gens sont morts, dont l'équipage d'Apollo 1. endTok	0.3280443278078623
+startTok Mais avant que le programme Apollo ait pris fin 24 hommes ont volé vers la Lune. endTok	0.08647154598524984
+startTok Douze ont marché sur sa surface, dont Aldrin, qui, suite à la mort d'Armstrong l'année dernière, devint le plus âgé d'entre eux. endTok	0.031811104014284386
+startTok Alors, pourquoi y sont-ils allés ? endTok	0.45782273986766686
+startTok Ils n'ont pas apporté grand' chose à leur retour : 380 kg de vieilles pierres, et quelque chose que ces 24 personnes ont souligné plus tard -- un nouveau sens de la petitesse et la fragilité de notre maison commune. endTok	0.0022103452941199943
+startTok Pourquoi y sont-ils allés ? La réponse cynique, c'est qu'ils y sont allés parce que le Président Kennedy a voulu montrer aux Soviétiques que son pays avait de meilleurs fusées. endTok	0.008385315978467074
+startTok Mais les mots que Kennedy a prononcés à l'Université Rice en 1962 en donnent une meilleure idée. endTok	0.07319658339955233
+startTok Jason Pontin : Pour nos historiens contemporains, Apollo n'était pas seulement une victoire de l'Ouest sur l'Est pendant la guerre froide. endTok	0.04439597201804127
+startTok À l'époque, l'émotion la plus forte, était l'émerveillement suscité par les pouvoirs transcendants de la technologie. endTok	0.08647154598524984
+startTok Ils y sont allés parce que c'était une grande chose à faire. endTok	0.16842357369809585
+startTok L'atterrissage sur la Lune s'est produit dans le contexte d'une longue série de triomphes technologiques. endTok	0.10215406126626542
+startTok La première moitié du 20ème siècle a produit : la chaîne de montage et l'avion, la pénicilline et un vaccin contre la tuberculose. endTok	0.031811104014284386
+startTok Au milieu du siècle, la polio a été éradiquée et la variole éliminée. endTok	0.14256747717620566
+startTok La technologie elle-même semblait posséder ce qu'Alvin Toffler, en 1970, appelait : « puissance d'accélération.» endTok	0.08647154598524984
+startTok Pendant la plus grande partie de l'Histoire humaine, nous ne pouvions pas aller plus vite qu'un cheval, ou un bateau à voile, mais en 1969, l'équipage d'Apollo 10 a volé à une vitesse de 40 000 km / h. endTok	0.0022103452941199943
+startTok Depuis 1970, aucun être humain n'est retourné sur la Lune. endTok	0.23505403213046533
+startTok Personne n'a voyagé plus vite que l'équipage d'Apollo 10, et puis cet optimisme insouciant sur les pouvoirs de la technologie s'est évaporé comme les grands problèmes que l'on avait imaginé pouvant être résolus par la technologie. comme aller sur Mars, créer de l'énergie propre, guérir le cancer, ou nourrir le monde entier, nous semblent aujourd'hui irréductiblement complexes. endTok	9.315244617685854e-05
+startTok Je me souviens regarder le décollage d'Apollo 17. endTok	0.3280443278078623
+startTok J'avais cinq ans, et ma mère m'a dit de ne pas fixer du regard le système d'échappement d'une des fusées Saturn V. endTok	0.031811104014284386
+startTok J'étais vaguement au courant que ça devait être la dernière des missions lunaires, mais j'étais absolument certain que j'assisterais aux colonies de Mars, au cours de ma vie. endTok	0.011702651167821564
+startTok Ainsi, « Quelque chose est arrivé à notre capacité à résoudre de grands problèmes par le biais de la technologie » est devenu un refrain connu. endTok	0.016332365376260007
+startTok On entend cela tout le temps. endTok	0.45782273986766686
+startTok On l'a entendu au cours des deux derniers jours ici à TED. endTok	0.16842357369809585
+startTok Il semble que les technologues ont détourné notre attention vers des gadgets insignifiants, avec lesquels ils se sont enrichis. comme les iPhones, les différentes applications et les réseaux sociaux, ou encore des algorithmes qui ont augmenté la vitesse des systèmes d'échanges automatisés. endTok	0.0011348291129743356
+startTok Il n'y a rien de mal dans la plupart de ces choses. endTok	0.16842357369809585
+startTok Elles ont élargi et enrichi nos vies. endTok	0.38753858253732953
+startTok Mais elles ne résolvent pas les grands problèmes de l'Humanité. endTok	0.23505403213046533
+startTok Qu'est-il arrivé alors ? endTok	0.6389431042462724
+startTok Il y a une explication paroissiale dans la Silicon Valley, qui admet qu'elle a financé des sociétés moins ambitieuses qu'elle ne l'a fait durant les années où elle a financé Intel, Microsoft, Apple et Genentech. endTok	0.003644243302007566
+startTok La Silicon Valley dit que les marchés sont à blâmer, en particulier les aides que les investisseurs offrent aux entrepreneurs. endTok	0.04439597201804127
+startTok La Silicon Valley dit que les investisseurs ont délaissé le financement des idées de transformation pour des problèmes de financement supplémentaires ou même de faux problèmes. endTok	0.016332365376260007
+startTok Mais je ne pense pas que cette explication soit assez bonne. endTok	0.19896894256029013
+startTok Elle explique surtout ce qui ne va pas dans la Silicon Valley. endTok	0.16842357369809585
+startTok Même lorsque les capital-risqueurs étaient dans l'état le plus favorable, ils préféraient les petits investissements, ces tout petits investissements qui leur offrent une rentabilité à 10 ans. endTok	0.011702651167821564
+startTok Les capital-risqueurs ont toujours lutté pour investir avec profit dans des technologies telles que l'énergie qui exige des fonds propres énormes et dont le développement est long et interminable, et n'ont jamais, jamais financé le développement des technologies destinées à résoudre de grands problèmes qui ne possèdent aucune valeur commerciale immédiate. endTok	0.00021434153283064313
+startTok Non, les raisons de notre incapacité à résoudre de grands problèmes sont plus compliquées et plus profondes. endTok	0.07319658339955233
+startTok Parfois, on a choisi de ne pas résoudre ces grands problèmes. endTok	0.19896894256029013
+startTok On pourrait aller sur Mars si on le voulait. endTok	0.27768352844338134
+startTok La NASA dispose même de l'ébauche d'un plan. endTok	0.3280443278078623
+startTok Mais aller sur Mars serait la conséquence d'une décision politique suite à une manifestation populaire, et cela n'arrivera jamais. endTok	0.0524476438328049
+startTok Nous n'irons pas sur Mars, parce que tout le monde pense qu'il y a des choses plus importantes à faire ici sur Terre. endTok	0.026927518196686172
+startTok Parfois, on ne peut pas résoudre les grands problèmes parce que nos systèmes politiques échouent. endTok	0.10215406126626542
+startTok Aujourd'hui, moins de 2% de la consommation énergétique dans le monde provient de sources renouvelables de pointe, telles que le solaire, l'éolien et les biocarburants. Moins de 2%, et la raison est purement économique. endTok	0.004305164771842524
+startTok Le charbon et le gaz naturel sont moins chers que les énergies solaire et éolienne, et le pétrole est moins cher que les biocarburants. endTok	0.022793652050154326
+startTok On veut des sources d'énergie alternatives à des prix compétitifs. Il n'y en a aucune. endTok	0.10215406126626542
+startTok Les technologues, les chefs d'entreprise et les économistes sont tous fondamentalement d'accord sur le fait que les politiques nationales et les traités internationaux pourraient stimuler le développement d'énergies alternatives : essentiellement, une augmentation significative en recherche et développement sur l'énergie, et une sorte de prix sur le carbone. endTok	0.000493194699460323
+startTok Mais dans le climat politique actuel, il n'y a aucun espoir de voir une politique énergétique américaine ou des traités internationaux qui incarnent ce consensus. endTok	0.019294409903971108
+startTok Parfois, les grands problèmes qui semblaient technologiques s'avèrent en fait ne pas l'être. endTok	0.14256747717620566
+startTok On a longtemps cru que les famines étaient causées par des défaillances dans l'approvisionnement alimentaire. endTok	0.10215406126626542
+startTok Mais 30 années de recherches nous ont appris que les famines sont des crises politiques qui ont une incidence catastrophique sur la distribution alimentaire. endTok	0.022793652050154326
+startTok La technologie peut améliorer des choses comme le rendement des cultures ou les systèmes de stockage et de transport des aliments, mais il y aura des famines tant qu'il y aura de mauvais gouvernements. endTok	0.004305164771842524
+startTok Enfin, les grands problèmes éludent parfois les solutions parce que l'on ne comprend pas vraiment le problème. endTok	0.07319658339955233
+startTok Le président Nixon a déclaré la guerre au cancer en 1971, mais on a vite découvert qu'il existait de nombreux types de cancer, la plupart d'entre eux étant diaboliquement résistants à la thérapie, et c'est seulement au cours des 10 dernières années que des thérapies viables et efficaces ont commencé à voir le jour. endTok	0.0001535824194295355
+startTok Les problèmes difficiles sont difficiles. endTok	0.5408536609893481
+startTok Il est faux de penser que l'on ne peut pas résoudre de grands problèmes par le biais de la technologie. endTok	0.04439597201804127
+startTok On peut et on doit le faire, mais les quatre éléments suivants doivent tous être réunis : les dirigeants politiques et le peuple doivent s'occuper de résoudre un problème ; les institutions doivent prendre en charge sa solution ; il faut vraiment que ce soit un problème technologique ; et nous devons le comprendre. endTok	0.0002991377064304437
+startTok La mission Apollo, qui est devenue une sorte de métaphore pour illustrer la capacité de la technologie à résoudre de grands problèmes, satisfaisait ces critères. endTok	0.019294409903971108
+startTok Mais c'est un modèle non reproductible à l'avenir. endTok	0.3280443278078623
+startTok On n'est plus en 1961. endTok	0.5408536609893481
+startTok Il n'y a pas de compétition qui nous galvanise comme pendant la guerre froide, et il n'y a aucun politicien comme John Kennedy qui puisse rendre héroïques la difficulté et le danger, et aucune mythologie populaire futuriste telle que l'exploration du système solaire. endTok	0.0009606121050066008
+startTok Et plus que tout, aller sur la Lune s'est avéré finalement facile. endTok	0.16842357369809585
+startTok Ça n'a pris que trois jours. endTok	0.45782273986766686
+startTok Et ça ne résolvait sans doute même pas beaucoup de problèmes. endTok	0.19896894256029013
+startTok Nous restons seuls face aux problèmes de notre époque, et les solutions seront plus difficiles à trouver dans le futur. endTok	0.04439597201804127
+startTok Dieu sait que nous ne manquons pas de défis ! endTok	0.27768352844338134
+startTok Merci beaucoup. endTok	0.6389431042462724
+startTok Je voudrais vous inviter à fermer les yeux. endTok	0.3280443278078623
+startTok Imaginez que vous êtes debout devant votre porte d'entrée. endTok	0.27768352844338134
+startTok Je voudrais que vous remarquiez la couleur de la porte, le matériau dans lequel elle est faite. endTok	0.07319658339955233
+startTok Maintenant visualisez un groupe de nudistes en surpoids sur des vélos. endTok	0.19896894256029013
+startTok Ils courent dans une course de vélo nudiste, et ils se dirigent droit sur votre porte d'entrée. endTok	0.07319658339955233
+startTok Je vous demande de bien visualiser cela. endTok	0.38753858253732953
+startTok Ils pédalent vraiment fort, ils transpirent, ils rebondissent pas mal çà et là. endTok	0.14256747717620566
+startTok Et ils foncent droit sur la porte d'entrée de votre maison. endTok	0.19896894256029013
+startTok Les vélos volent partout, les roues roulent à coté de vous, les rayons atterrissent à des endroits bizarres. endTok	0.061959570172152735
+startTok Passez le pas de votre porte dans l'entrée, le hall, quel que soit la pièce qui est de l'autre côté, et appréciez la qualité de la lumière. endTok	0.013825048815240323
+startTok La lumière brille sur Macaron. endTok	0.5408536609893481
+startTok Macaron vous salue de la main du haut d'un cheval champagne. endTok	0.19896894256029013
+startTok C'est un cheval qui parle. endTok	0.5408536609893481
+startTok Vous pouvez presque sentir la fourrure bleue vous chatouillez le nez. endTok	0.19896894256029013
+startTok Vous pouvez sentir le cookie aux raisins et flocons d'avoine qu'il est sur le point d'avaler. endTok	0.08647154598524984
+startTok Vous le dépassez. Vous entrez dans votre salon. endTok	0.3280443278078623
+startTok Dans votre salon, avec votre imagination haut débit, visualisez Britney Spears. endTok	0.19896894256029013
+startTok Elle est presque dévêtue, elle danse sur votre table basse, et elle chante « Hit Me Baby One More Time ». endTok	0.0524476438328049
+startTok Ensuite suivez-moi dans votre cuisine. endTok	0.45782273986766686
+startTok Dans votre cuisine, le sol a été pavé d'une route de briques jaunes. et sortant de votre four, viennent vers vous Dorothy, l'Homme de fer-blanc, l'Epouvantail et le Lion du « Magicien d'Oz » main dans la main sautillant droit vers vous. endTok	0.001340642189435315
+startTok Ok. Ouvrez les yeux. endTok	0.6389431042462724
+startTok Je vais vous parler d'une compétition très étrange qui se tient chaque printemps à New York City. endTok	0.07319658339955233
+startTok Elle s'appelle le Championnat de Mémoire des Etats Unis. endTok	0.27768352844338134
+startTok Et je suis allé couvrir cette compétition il y a quelques années comme journaliste scientifique m'attendant, j'imagine, à ce que ce soit comme la coupe du monde des savants. endTok	0.009906080346330753
+startTok C'était un tas de mecs et quelques femmes, différent grandement aussi bien en âge qu'en niveau d'hygiène. endTok	0.07319658339955233
+startTok Ils mémorisaient des centaines de chiffres au hasard, en ne les regardant qu'une fois. endTok	0.12068076399341783
+startTok Ils mémorisaient les prénoms de douzaines de douzaines d'étrangers. endTok	0.27768352844338134
+startTok Ils mémorisaient des poèmes entiers en seulement quelques minutes. endTok	0.27768352844338134
+startTok Ils faisaient la compétition pour voir qui pouvait mémoriser le plus rapidement l'ordre mélangé d'un jeu de carte à jouer. endTok	0.04439597201804127
+startTok Je me disais, ceci est incroyable. endTok	0.45782273986766686
+startTok Ces gens doivent être des anomalies de la nature. endTok	0.27768352844338134
+startTok Et j'ai commencé à parler à quelques participants. endTok	0.3280443278078623
+startTok Voici un gars qui s'appelle Ed Cook qui était venu d'Angleterre où il était une des mémoires les mieux entrainées. endTok	0.04439597201804127
+startTok Et je lui ai dit, « Ed, quand as-tu réalisé que tu étais un savant ? » endTok	0.08647154598524984
+startTok Et Ed m'a répondu, « Je ne suis pas un savant. endTok	0.23505403213046533
+startTok En fait, j'ai une mémoire dans la moyenne. endTok	0.3280443278078623
+startTok Tous ceux qui concourent dans cette compétition vous diront qu'ils ont une mémoire dans la moyenne. endTok	0.08647154598524984
+startTok Nous nous sommes tous entrainés pour accomplir ces miraculeux exploits de mémoire en utilisant des techniques anciennes, des techniques inventées il y a 2500 ans en Grèce, les mêmes techniques qu'utilisait Cicéron pour mémoriser ces discours, qu'utilisaient les intellectuels du moyen âge pour mémoriser des livres entiers. » endTok	0.00041748029990608176
+startTok Et je me disais, « Wow, comment se fait-il que je n'ai jamais entendu parler de ça avant ? » endTok	0.0524476438328049
+startTok Et nous nous tenions à l'extérieur du hall de compétition et Ed, qui est un Anglais merveilleux, brillant, mais en quelque sorte excentrique, me dit, « Josh, tu es un journaliste Américain. endTok	0.007098016733205634
+startTok Connais-tu Britney Spears ? » endTok	0.5408536609893481
+startTok « Quoi ? Non. Pourquoi ? » endTok	0.6389431042462724
+startTok « Parce que j'ai vraiment envie d'enseigner à Britney Spears comment mémoriser l'ordre d'un paquet de cartes à jouer mélangées sur la télévision nationale Américaine. endTok	0.022793652050154326
+startTok Ça prouvera au monde que n'importe qui peut le faire. » endTok	0.19896894256029013
+startTok J'ai répondu, « Je ne suis pas Britney Spears, mais tu peux peut-être me l'apprendre à moi. endTok	0.07319658339955233
+startTok Je veux dire, il faut bien commencer quelque part, non ? » endTok	0.19896894256029013
+startTok Et ce fut le début d'un voyage très étrange pour moi. endTok	0.19896894256029013
+startTok J'ai fini par passer la plupart de l'année suivante non seulement à entrainer ma mémoire, mais aussi à l'enquêter, essayant de comprendre comment elle marche, pourquoi parfois ça ne marche pas et pourquoi parfois ça va peut-être marcher. endTok	0.0018710168971705456
+startTok J'ai rencontré beaucoup de gens très intéressant. endTok	0.38753858253732953
+startTok Voici un mec qui s'appelle E.P. endTok	0.38753858253732953
+startTok C'est un amnésique qui a très probablement, la pire mémoire du monde. endTok	0.16842357369809585
+startTok Sa mémoire était si mauvaise qu'il ne se souvenait même pas avoir un problème de mémoire, ce qui est fascinant. endTok	0.04439597201804127
+startTok Il était cette personne incroyablement tragique mais aussi une fenêtre vers l'idée que nos mémoires font de nous ce que nous sommes. endTok	0.031811104014284386
+startTok A l'autre extrémité du spectre : j'ai rencontré ce mec. endTok	0.27768352844338134
+startTok C'est Kim Peek. endTok	0.6389431042462724
+startTok Il était la référence pour le personnage de Dustin Hoffman dans « Rain Man ». endTok	0.14256747717620566
+startTok Nous avons passé un après-midi ensemble dans la librairie publique de Salt Lake City, à mémoriser des annuaires, ce qui était brillant. endTok	0.026927518196686172
+startTok Je suis revenu et j'ai lu un paquet de traités sur la mémoire, des traités écrits il y a plus de 2000 ans en Latin, dans l'Antiquité puis plus tard au Moyen-Age. endTok	0.00508595123231852
+startTok Et j'ai appris un tas de choses très intéressantes. endTok	0.27768352844338134
+startTok Une des choses très intéressantes que j'ai appris est qu'à une époque, cette idée d'avoir une mémoire entrainée, disciplinée, cultivée n'était pas si étrangère que cela nous parait aujourd'hui. endTok	0.009906080346330753
+startTok A une époque, les gens investissaient dans leur mémoire, en remplissant laborieusement leur tête. endTok	0.12068076399341783
+startTok Au cours de ces derniers millénaires nous avons inventé une série de technologies, de l'alphabet au parchemin aux manuscrits, à la presse typographique, à la photographie, à l'ordinateur, aux smartphones -- qui ont rendu progressivement de plus en plus facile l'externalisation de nos mémoires, simplement l'externalisation de cette capacité humaine essentielle. endTok	0.0002991377064304437
+startTok Ces technologies ont rendu notre monde moderne possible mais elles nous ont aussi changés. endTok	0.12068076399341783
+startTok Elles nous ont changés culturellement, et j'argumenterais qu'elles nous ont changés cognitivement. endTok	0.16842357369809585
+startTok Ayant dorénavant peu besoin de mémoriser il semble parfois que nous avons oublié comment le faire. endTok	0.08647154598524984
+startTok Un des derniers endroits sur Terre où vous trouvez toujours des gens passionnés par cette idée d'une mémoire entrainée, disciplinée, cultivée est à cette compétition de mémoire tout à fait singulière. endTok	0.007098016733205634
+startTok Elle n'est en fait pas si singulière il y a des compétitions similaires partout dans le monde. endTok	0.07319658339955233
+startTok Et j'étais fasciné, je voulais savoir comment ces gens font. endTok	0.23505403213046533
+startTok Il y a quelques années, un groupe de chercheurs à l'University College London ont rassemblé quelques champions de mémoire dans un laboratoire. endTok	0.031811104014284386
+startTok Ils voulaient savoir : Est-ce que ces gars ont des cerveaux qui ont quelque chose de structurellement ou anatomiquement différents des nôtres ? endTok	0.031811104014284386
+startTok La réponse est non. endTok	0.6389431042462724
+startTok Sont-ils plus intelligents que le reste d'entre nous ? endTok	0.27768352844338134
+startTok Ils leur ont fait passer une série de tests cognitifs, et la réponse a été : pas vraiment. endTok	0.07319658339955233
+startTok Il y avait cependant une chose très intéressante et montrant des différences entre le cerveau des champions de mémoire et ceux des sujets-control auxquels ils les comparaient. endTok	0.011702651167821564
+startTok En les mettant dans une machine IRM, qui scannait leur cerveau pendant qu'ils mémorisaient nombres, prénoms et images de flocon de neige, ils ont découvert que les champions de mémoire utilisaient différentes parties de leur cerveau par rapport aux autres. endTok	0.0015837816104164078
+startTok Ils utilisaient, ou semblaient utiliser, une partie du cerveau qui est impliquée dans la mémoire spatiale et l'orientation. endTok	0.061959570172152735
+startTok Pourquoi ? Et y a-t-il quelque chose que le reste d'entre nous peut en tirer ? endTok	0.08647154598524984
+startTok Le sport de mémorisation de compétition est entrainé par une sorte de bras de fer où chaque année, quelqu'un invente une nouvelle façon de mémoriser plus de choses plus rapidement, et le reste doit rattraper le temps perdu. endTok	0.0022103452941199943
+startTok Voici mon ami Ben Pridmore, trois fois champion du monde de mémoire. endTok	0.16842357369809585
+startTok Sur son bureau devant lui il y a 36 paquets de carte à jouer mélangés qu'il est sur le point d'essayer de mémoriser en une heure, en utilisant une technique qu'il a inventé et que lui seul maitrise. endTok	0.0022103452941199943
+startTok Il a utilisé une technique similaire pour mémoriser l'ordre précis de 4140 chiffres binaires au hasard en une demi-heure. endTok	0.04439597201804127
+startTok Ouais. endTok	0.6389431042462724
+startTok Et s'il y a un tas de façons de mémoriser des trucs dans ces compétitions, toutes les techniques qui sont utilisées, se résument à un seul concept que les psychologues appellent encodage élaboré. endTok	0.00508595123231852
+startTok Et cela est bien illustré par le superbe paradoxe connu sous le nom du paradoxe Boulanger/boulanger qui se résume à ceci : Si je dis à deux personnes de se souvenir du même mot, si je vous dis, « Souvenez-vous il y a un monsieur appelé Boulanger. » endTok	0.00041748029990608176
+startTok C'est son nom. endTok	0.6389431042462724
+startTok Et si je vous dis « Souvenez-vous il y a un monsieur qui est boulanger. » endTok	0.08647154598524984
+startTok Et si je reviens vers vous plus tard, et je dis, « Vous souvenez-vous du mot que je vous ai dit toute à l'heure ? endTok	0.019294409903971108
+startTok Vous souvenez-vous ce que c'était ? » endTok	0.38753858253732953
+startTok La personne à qui on a dit que son nom est Boulanger est moins à même de se souvenir du même mot que la personne à qui on a dit qu'il était boulanger endTok	0.00508595123231852
+startTok Même mot, différent moyen de se souvenir ; c'est bizarre. endTok	0.27768352844338134
+startTok Qu'est-ce qui se passe ? endTok	0.5408536609893481
+startTok Et bien le nom de Boulanger ne vous dit rien personnellement. endTok	0.19896894256029013
+startTok Il n'est attaché à aucun souvenir flottant dans votre cerveau. endTok	0.23505403213046533
+startTok Mais le nom commun boulanger, nous connaissons tous des boulangers. endTok	0.23505403213046533
+startTok Les boulangers ont de drôles de chapeaux blancs. endTok	0.3280443278078623
+startTok Les boulangers ont de la farine sur les mains. endTok	0.27768352844338134
+startTok Les boulangers sentent bon quand ils rentrent du travail. endTok	0.27768352844338134
+startTok Et peut-être que nous en connaissons un. endTok	0.3280443278078623
+startTok et quand nous entendons le mot pour la première fois, nous commençons à mettre des hameçons associatifs qui plus tard facilite le repêchage. endTok	0.026927518196686172
+startTok Tout l'art de ce qui se passe dans ces compétitions de mémoires et l'art de se souvenir mieux des choses de tous les jours est de trouver des moyens de transformer le B majuscule de Boulanger en b minuscule de boulangers -- de prendre une information qui manque de contexte, d'importance, de sens et de la transformer d'une certaine façon en quelque chose de significatif à la lumière de toutes les autres choses que vous avez en tête. endTok	3.3231197451935427e-06
+startTok Une des techniques les plus élaborées pour faire cela date de 2500 ans dans la Grèce Antique endTok	0.07319658339955233
+startTok Cela était connu comme le palais de la mémoire. endTok	0.27768352844338134
+startTok L'histoire derrière sa création raconte : Il y avait un poète appelé Simonide qui assistait à un banquet. endTok	0.07319658339955233
+startTok Il était en réalité engagé pour divertir, car à cette époque si vous vous vouliez organiser une fête de tonnerre, vous n'embauchiez pas un DJ, vous embauchiez un poète. endTok	0.009906080346330753
+startTok Donc il se lève, dit son poème de mémoire, sort de la pièce, et au moment où il le fait, la salle de banquet s'effondre, tuant tout le monde à l'intérieur. endTok	0.007098016733205634
+startTok Cela n'a pas simplement tué tout le monde, les corps sont écrasés au-delà de toute reconnaissance possible. endTok	0.061959570172152735
+startTok Personne ne peut dire qui était à l'intérieur, personne ne peut dire où ils étaient assis. endTok	0.08647154598524984
+startTok Les corps ne peuvent pas être correctement enterrés. endTok	0.3280443278078623
+startTok C'est une double tragédie. endTok	0.6389431042462724
+startTok Simonide, debout à l'extérieur, le seul survivant parmi les débris, ferme les yeux et a cette prise de conscience, de ce qui est dans l'œil de son esprit, Il peut voir où chacun des invités du banquet était assis. endTok	0.0018710168971705456
+startTok Et il prend les membres de la famille par la main et guide chacun d'eux jusqu'à leurs proches au milieu des débris. endTok	0.031811104014284386
+startTok Ce que Simonide compris à ce moment-là est quelque chose que je pense que nous savons de manière intuitive qui est que, aussi mauvais que nous soyons à nous souvenir des noms et numéros de téléphone et d'instructions mot à mot de nos collègues, nous avons vraiment une exceptionnelle mémoire visuelle et spatiale. endTok	0.0001535824194295355
+startTok Si je vous demandais de raconter les 10 premiers mots de l'histoire que je viens de vous dire sur Simonide, il y a une forte chance que ce soit difficile pour vous. endTok	0.006008341447626345
+startTok Mais je parie que si je vous demande de vous rappeler qui est assis sur un cheval champagne qui parle dans votre entrée, vous seriez capable de voir ça. endTok	0.009906080346330753
+startTok L'idée derrière le palais de la mémoire est de créer cet édifice imaginaire dans votre esprit et de le remplir avec des images des choses dont vous voulez vous souvenir -- plus l'image est folle, curieuse, bizarre, drôle, torride, puante plus elle est susceptible d'être inoubliable. endTok	0.0006883086505534262
+startTok Il s'agit de conseils qui remontent à plus de 2000 ans à l'époque des premiers traités latin sur la mémoire. endTok	0.04439597201804127
+startTok Alors, comment cela fonctionne ? endTok	0.6389431042462724
+startTok Disons que vous avez été invité sur la scène principale de TED pour tenir un discours et que vous voulez le faire de mémoire, et que vous voulez le faire de la manière dont Cicéron l'aurait fait s'il avait été invité à TEDxRome il y a 2000 ans. endTok	0.00041748029990608176
+startTok Ce que vous pouvez faire est de projeter l'image de vous-même à la porte d'entrée de votre maison. endTok	0.0524476438328049
+startTok Et il vous serait venu à l'esprit une sorte d'image absolument folle, ridicule, inoubliable pour vous souvenir que la première chose dont vous voulez parler est ce concours totalement bizarre. endTok	0.008385315978467074
+startTok Vous iriez ensuite à l'intérieur de votre maison, et vous verriez l'image de Macaron sur le dos de Mister Ed. endTok	0.04439597201804127
+startTok Et cela vous rappellerait que vous voulez introduire votre ami Ed Cook. endTok	0.16842357369809585
+startTok Et puis, vous verriez l'image de Britney Spears pour vous rappeler cette anecdote amusante que vous voulez raconter. endTok	0.061959570172152735
+startTok Et vous allez dans votre cuisine, et la quatrième chose dont vous allez parler est cet étrange voyage que vous avez fait en un an, et vous avez quelques amis pour vous aider à vous en souvenir. endTok	0.002611214429237235
+startTok C'est comme cela que les orateurs romains mémorisaient leurs discours -- pas mot à mot, ce qui est voué à l'échec, mais sujet après sujet. endTok	0.022793652050154326
+startTok En fait, l'expression « topic sentence » [phrase d'introduction] qui vient du mot grec « topos », qui signifie « lieu ». endTok	0.031811104014284386
+startTok est un vestige qui nous reste de l'époque où les gens pensaient à l'oratoire et à la rhétorique en termes spatiales. endTok	0.037580378972027005
+startTok L'expression « en premier lieu » c'est comme au premier endroit de votre du Palais de la mémoire. endTok	0.061959570172152735
+startTok Je pensais que c'était juste fascinant, et je m'y suis vraiment mis. endTok	0.16842357369809585
+startTok Et je suis allé à d'autres de ces concours de mémoire. endTok	0.19896894256029013
+startTok Et j'ai eu cette idée que je pourrais écrire quelque chose de plus sur cette sous-culture de compétition de mémoires. endTok	0.037580378972027005
+startTok Mais il y avait un problème. endTok	0.45782273986766686
+startTok Le problème était qu'un concours de mémoire est un événement pathologiquement ennuyeux. endTok	0.16842357369809585
+startTok Vraiment, c'est comme un tas de gens assis qui passe un test d'admission. endTok	0.14256747717620566
+startTok Je veux dire, le moment le plus dramatique c'est quand quelqu'un commence à se masser les tempes. endTok	0.07319658339955233
+startTok Et je suis journaliste, j'ai besoin d'écrire sur quelque chose. endTok	0.23505403213046533
+startTok Je sais qu'il y a ce truc incroyable qui se passe dans ces esprits, mais je n'y ai pas accès. endTok	0.04439597201804127
+startTok Et je me suis rendu compte que si j'allais raconter cette histoire, il fallait que je me mette un peu à leur place. endTok	0.026927518196686172
+startTok Et donc j'ai commencé à essayer de passer de 15 à 20 minutes tous les matins avant de m'assoir pour lire mon New York Times à essayer de me souvenir de quelque chose. endTok	0.00508595123231852
+startTok Peut-être était-ce un poème. endTok	0.45782273986766686
+startTok Peut-être était-ce des noms dans un annuaire d'anciens élèves acheté dans un marché aux puces. endTok	0.07319658339955233
+startTok Et j'ai trouvé que c'était incroyablement amusant. endTok	0.38753858253732953
+startTok Je ne me serai jamais attendu à cela. endTok	0.3280443278078623
+startTok C'était amusant, parce que ça ne regarde pas vraiment la formation de votre mémoire. endTok	0.12068076399341783
+startTok Ce que vous faites c'est essayer d'être meilleur et encore meilleur à créer, à rêver de ces images totalement ridicules, hilarantes et torrides et avec un peu de chance inoubliables dans votre esprit. endTok	0.00508595123231852
+startTok Et je me suis pris au jeu. endTok	0.38753858253732953
+startTok C'est moi portant mon kit de formation de mémorisation de compétition. endTok	0.19896894256029013
+startTok C'est un casque antibruit et des lunettes de sécurité qui ont été masquées à l'exception de deux petits trous, parce que la distraction est le plus grand ennemi du mémorisateur de competition. endTok	0.006008341447626345
+startTok J'ai fini par revenir à ce même concours que j'avais couvert un an plus tôt. endTok	0.10215406126626542
+startTok Et j'ai eu cette idée que je pourrais y entrer, une sorte d'expérience de journalisme participatif. endTok	0.08647154598524984
+startTok J'en aurais peut-être fait un bel épilogue à toutes mes recherches. endTok	0.16842357369809585
+startTok Le problème est que l'expérience s'est emballée. endTok	0.38753858253732953
+startTok J'ai gagné le concours, ce qui n'était pas vraiment supposé se produire. endTok	0.16842357369809585
+startTok Maintenant, c'est sympa d'être capable de mémoriser les discours et les numéros de téléphone et les listes des courses, mais la question n'est pas là. endTok	0.019294409903971108
+startTok Il s'agit seulement de quelques astuces. endTok	0.45782273986766686
+startTok Ce sont des astuces qui fonctionnent parce qu'elles sont fondées sur des principes de base sur le fonctionnement de notre cerveau. endTok	0.037580378972027005
+startTok Et vous ne devez pas construire des palais de la mémoire ou mémoriser des paquets de cartes à jouer pour bénéficier d'un aperçu sur le fonctionnement de votre esprit. endTok	0.009906080346330753
+startTok Nous parlons souvent de gens avec une bonne mémoire comme s'il s'agissait d'une sorte de don inné, mais ce n'est pas le cas. endTok	0.026927518196686172
+startTok Avoir une bonne mémoire, ça s'apprend. endTok	0.45782273986766686
+startTok Au niveau le plus basique, nous nous souvenons quand nous faisons attention. endTok	0.16842357369809585
+startTok Nous nous souvenons quand nous sommes profondément engagés. endTok	0.3280443278078623
+startTok Nous nous souvenons quand nous sommes capables de prendre une information et une expérience et de comprendre pourquoi c'est significatif, pourquoi c'est important, pourquoi c'est coloré, quand nous sommes capables de le transformer pour que ce soit logique à la lumière de toutes les autres choses qui flottent dans nos esprits, lorsque nous sommes capables de transformer des Boulanger en boulangers. endTok	4.782606054696133e-05
+startTok Le palais de la mémoire, ces techniques de mémoire, sont justes des raccourcis. endTok	0.14256747717620566
+startTok En fait, ce ne sont pas vraiment des raccourcis. endTok	0.27768352844338134
+startTok Ils marchent parce qu'ils vous font travailler. endTok	0.38753858253732953
+startTok Ils forcent une sorte profondeur de traitement, une sorte de conscience, que la plupart d'entre nous ne font pas marcher normalement. endTok	0.037580378972027005
+startTok Il n'existe en réalité aucun raccourci. endTok	0.45782273986766686
+startTok Voilà comment les choses deviennent mémorables. endTok	0.45782273986766686
+startTok Et je pense que, s'il y a une chose avec laquelle je veux vous quitter, c'est ce que E.P., l'amnésique qui ne pouvait pas même se rappeler qu'il avait un problème de mémoire, m'a laissé, qui est la notion que nos vies sont la somme de nos souvenirs. endTok	0.0003533894443723512
+startTok Combien sommes-nous prêts à perdre de notre vie déjà très courte en nous perdant dans nos BlackBerry, nos iPhone, en ne faisant pas attention à l'humain en face de nous qui nous parle, en étant si paresseux que nous ne sommes pas prêts à traiter profondément? endTok	0.000493194699460323
+startTok J'ai appris par moi même qu'il y a des capacités de mémoire incroyables latentes en chacun de nous. endTok	0.061959570172152735
+startTok Mais si vous voulez vivre une vie mémorable il faut être le type de personne qui se souvient de se souvenir. endTok	0.037580378972027005
+startTok Merci. endTok	0.6389431042462724
+startTok Quand j'avais 27 ans, j'ai abandonné un travail très exigeant de consultante en management pour un travail encore plus exigeant : l'enseignement. endTok	0.037580378972027005
+startTok Je suis allée enseigner les maths à des élèves de cinquième dans les écoles publiques de New York. endTok	0.061959570172152735
+startTok Et comme n'importe quel enseignant, je faisais des questionnaires et des tests. endTok	0.16842357369809585
+startTok Je donnais des devoirs à la maison. endTok	0.38753858253732953
+startTok Quand mes élèves me rendaient le travail, je calculais les notes. endTok	0.19896894256029013
+startTok Ce qui m'a frappée, c'est que le Q.I. n'était pas la seule différence entre mes meilleurs élèves et les moins bons. endTok	0.031811104014284386
+startTok Certains de ceux qui avaient les meilleurs résultats n'avaient pas un Q.I. phénoménal. endTok	0.12068076399341783
+startTok Certains de mes élèves parmi les plus intelligents ne réussissaient pas très bien. endTok	0.14256747717620566
+startTok Et ça m'a fait réfléchir. endTok	0.5408536609893481
+startTok Les choses qu'on doit apprendre en maths en cinquième, bien sûr, c'est dur : les fractions, les décimales, la surface d'un parallélogramme. endTok	0.037580378972027005
+startTok Mais ces concepts ne sont pas impossibles à comprendre, et j'étais fermement convaincue que tous mes élèves pouvaient apprendre ces notions s'ils travaillaient assez dur et assez longtemps. endTok	0.011702651167821564
+startTok Après plusieurs années passées à enseigner, je suis arrivée à la conclusion que ce dont nous avons besoin, dans l'éducation, c'est d'une meilleure compréhension des élèves et du processus d'apprentissage du point de vue de la motivation, du point de vue psychologique. endTok	0.0011348291129743356
+startTok Dans l'éducation, ce que nous savons le mieux mesurer, c'est le quotient intellectuel. Mais si réussir à l'école et dans la vie dépendait de bien plus que de la capacité à apprendre rapidement et facilement ? endTok	0.003644243302007566
+startTok J'ai donc quitté ma salle de classe, et je suis allée passer mon diplôme pour devenir psychologue. endTok	0.07319658339955233
+startTok J'ai commencé à étudier les enfants et les adultes dans toutes sortes de situations très exigeantes, et dans chaque étude, ma question était : qui réussit dans cette situation et pourquoi ? endTok	0.008385315978467074
+startTok Je suis allée avec mon équipe de recherche à l'Académie militaire de West Point. endTok	0.12068076399341783
+startTok Nous avons essayé de prédire quels cadets poursuivraient leur formation militaire et lesquels abandonneraient. endTok	0.12068076399341783
+startTok Nous sommes allés au National Spelling Bee [NdT : concours d'orthographe aux Etats-Unis] et nous avons essayé de prédire quels enfants iraient le plus loin dans la compétition. endTok	0.011702651167821564
+startTok Nous avons étudié des professeurs débutants qui travaillaient dans des quartiers vraiment difficiles, et nous nous sommes demandé quels professeurs enseigneraient encore là à la fin de l'année scolaire, et parmi ceux-là, lesquels réussiraient le mieux à améliorer les résultats d'apprentissage de leurs élèves. endTok	0.0006883086505534262
+startTok Nous nous sommes associés à des compagnies privées, et nous nous sommes demandé : lesquels de ces vendeurs garderont leur travail ? endTok	0.04439597201804127
+startTok Et qui va gagner le plus d'argent ? endTok	0.38753858253732953
+startTok Dans tous ces contextes très différents, une caractéristique est ressortie comme un facteur significatif de succès. endTok	0.08647154598524984
+startTok Et ce n'était pas l'intelligence sociale. endTok	0.45782273986766686
+startTok Ce n'était pas l'apparence, la santé physique, et ce n'était pas le Q.I. endTok	0.12068076399341783
+startTok C'était la ténacité. endTok	0.6389431042462724
+startTok La ténacité, c'est la passion et la persévérance pour des objectifs à très long terme. endTok	0.10215406126626542
+startTok La ténacité, c'est avoir de l'endurance. endTok	0.45782273986766686
+startTok La ténacité, c'est s'accrocher à son futur, jour après jour pas seulement pendant une semaine, ou un mois, mais pendant des années, et travailler vraiment dur pour que ce futur devienne une réalité. endTok	0.00508595123231852
+startTok La ténacité, c'est vivre sa vie comme si elle était un marathon, pas un sprint. endTok	0.10215406126626542
+startTok Il y a quelques années, j'ai commencé à étudier la ténacité dans les écoles publiques de Chicago. endTok	0.07319658339955233
+startTok J'ai demandé à des milliers de collégiens de répondre à des questionnaires sur la ténacité, et j'ai ensuite attendu plus d'un an pour voir lesquels allaient obtenir leur diplôme. endTok	0.009906080346330753
+startTok Le résultat, c'est que les enfants les plus tenaces avaient beaucoup plus de chances d'avoir leur diplôme, même quand je les faisais correspondre à toutes les variables que je pouvais mesurer, comme les revenus de leur famille, leurs résultats aux tests de réussite standards, et même s'ils se sentaient en sécurité quand ils étaient à l'école. endTok	0.00011004661227493859
+startTok Donc ce n'est pas seulement à West Point ou au National Spelling Bee que la ténacité est importante. C'est aussi à l'école, en particulier pour les enfants qui risquent d'abandonner en cours de route. endTok	0.004305164771842524
+startTok Pour moi, ce qui me choque le plus à propos de la ténacité, c'est à quel point on sait peu de choses, à quel point la science sait peu de choses, sur la manière dont on la construit. endTok	0.0022103452941199943
+startTok Chaque jour, des parents et des enseignants me demandent : « Comment faire pour que mes enfants soient tenaces ? endTok	0.061959570172152735
+startTok Qu'est-ce que dois faire pour enseigner aux enfants une éthique solide du travail ? endTok	0.12068076399341783
+startTok Comment je dois faire pour qu'ils restent motivés sur la durée ? » endTok	0.16842357369809585
+startTok Pour être honnête, je ne sais pas. endTok	0.38753858253732953
+startTok Ce que je sais, c'est qu'avoir du talent ne vous rend pas tenace. endTok	0.14256747717620566
+startTok Nos données montrent très clairement qu'il y a beaucoup d'individus talentueux qui ne persévèrent pas dans leurs engagements. endTok	0.061959570172152735
+startTok En fait, dans nos données, la ténacité est généralement sans rapport avec le talent, voire inversement proportionnelle aux mesures de talent. endTok	0.037580378972027005
+startTok Jusqu'à présent, la meilleure idée que j'aie entendue sur la manière de développer la ténacité des enfants s'appelle « la mentalité de croissance » endTok	0.022793652050154326
+startTok C'est une idée développée à l'Université de Stanford par Carol Dweck, et c'est la conviction que la capacité à apprendre n'est pas fixée, qu'elle peut changer avec l'effort. endTok	0.011702651167821564
+startTok Le Dr. Dweck a montré que quand les enfants lisent et apprennent des choses sur le cerveau, sur la manière dont il change et grandit en réponse à un défi, ils sont bien plus susceptibles de persévérer quand ils échouent, parce qu'ils ne croient pas que l'échec est une condition permanente. endTok	0.0002532146017190638
+startTok La mentalité de croissance est donc une excellente idée pour construire la ténacité. endTok	0.14256747717620566
+startTok Mais nous avons besoin de plus. endTok	0.45782273986766686
+startTok Et je vais finir sur ces remarques, parce que c'est là que nous en sommes. endTok	0.10215406126626542
+startTok C'est le travail qui nous attend. endTok	0.45782273986766686
+startTok Nous devons prendre nos meilleures idées, nos intuitions les plus fortes, et nous devons les tester. endTok	0.08647154598524984
+startTok Nous devons mesurer si nous avons réussi, et nous devons être prêts à échouer, à avoir tort, à recommencer en ayant appris de nos erreurs. endTok	0.019294409903971108
+startTok En d'autres termes, nous devons être tenaces pour faire en sorte que nos enfants soient plus tenaces. endTok	0.07319658339955233
+startTok Merci. endTok	0.6389431042462724
+startTok Mon travail se concentre essentiellement sur le lien entre la perception de notre vie en communauté et le fait qu'elle fasse partie de l'environnement étant donné que l'architecture se développe à partir des conditions locales et des traditions. endTok	0.0022103452941199943
+startTok Aujourd'hui, je vais vous présenter deux projets récents qui illustrent cela. endTok	0.19896894256029013
+startTok Les deux projets sont localisés dans des pays émergents, un en Ethiopie et un autre en Tunisie. endTok	0.07319658339955233
+startTok Et ils partagent aussi le fait que les différentes analyses à partir des différentes perspectives deviennent une partie essentielle de l'architecture finale. endTok	0.031811104014284386
+startTok Le premier exemple a débuté par une invitation, à concevoir un centre commercial de plusieurs étages dans la capitale Addis-Abeba en Éthiopie. endTok	0.026927518196686172
+startTok Voici le type de bâtiment que l'on nous a montré à titre d'exemple, à mon équipe et moi-même, et que nous étions censés concevoir. endTok	0.019294409903971108
+startTok La première chose que j'ai pensé a été : je veux m'enfuir. endTok	0.19896894256029013
+startTok Après avoir vu quelques-uns de ces bâtiments, car il y en a beaucoup dans cette ville nous avons pris conscience qu'ils partageaient trois points essentiels. endTok	0.016332365376260007
+startTok Tout d'abord, ces bâtiments sont quasiment vides parce qu'ils ont de très grands magasins où les gens ne peuvent pas se permettre d'acheter des choses. endTok	0.019294409903971108
+startTok Deuxièmement, ils ont besoin d'énormément d'énergie en raison de la façade en verre qui crée de la chaleur à l'intérieur, et qui induit d'important besoins en refroidissement endTok	0.013825048815240323
+startTok dans une ville où ça ne devrait pas se produire car il y a un climat très doux qui varie entre 20 et 25 degrés sur toute l'année. endTok	0.011702651167821564
+startTok Enfin troisièmement, leur aspect n'a rien à voir avec l'Afrique et l'Éthiopie. endTok	0.16842357369809585
+startTok C'est regrettable, dans un endroit qui renferme une telle culture et de riches traditions. endTok	0.12068076399341783
+startTok Aussi, durant de notre première visite en Ethiopie, j'ai vraiment été captivé par l'ancien quartier du Merkato, qui dispose d'un espace en plein air où des milliers de personnes vont acheter des choses tous les jours chez de petits vendeurs. endTok	0.0015837816104164078
+startTok En plus, il y a cette idée d'espace public qui utilise l'extérieur pour créer de l'activité. endTok	0.08647154598524984
+startTok J'ai alors pensé, voilà vraiment c'est ce que je veux concevoir, et non un centre commercial. endTok	0.08647154598524984
+startTok Mais la question était de savoir comment réaliser un bâtiment contemporain de plusieurs étages selon ces principes. endTok	0.07319658339955233
+startTok L'autre défi était le site, situé dans une zone en pleine croissance de la ville, où la plupart des bâtiments que vous voyez sur cette image, n'existaient pas à ce moment là. endTok	0.006008341447626345
+startTok En plus il est situé entre deux rues parallèles qui n'ont pas de connexion sur des centaines de mètres. endTok	0.0524476438328049
+startTok Donc la première chose que nous avons fait a été de créer une connexion entre ces deux rues, en positionnant toutes les entrées du bâtiment. endTok	0.019294409903971108
+startTok Et cela donne sur un atrium incliné qui crée un espace de plein air dans le bâtiment qui s'auto-prémunit du soleil et de la pluie, grâce à sa propre forme. endTok	0.007098016733205634
+startTok Et autour de ce vide nous avons introduit cette idée du marché avec de petites boutiques, qui changent dans chaque étage en raison de la forme du vide. endTok	0.011702651167821564
+startTok J'ai aussi réfléchi à la façon de cloisonner le bâtiment ? endTok	0.23505403213046533
+startTok Et je voulais vraiment trouver une solution qui répondrait aux conditions climatiques locales. endTok	0.14256747717620566
+startTok J'ai alors commencé à penser le textile comme à une coque en béton avec des perforations qui permettraient le passage de l'air, et également de la lumière, mais d'une manière filtrée. endTok	0.007098016733205634
+startTok Et puis l'inspiration est venue de ces magnifiques boutons de robes éthiopiennes, endTok	0.16842357369809585
+startTok qui ont des propriétés géométriques fractales, et cela m'a aidé à façonner toute la façade. endTok	0.10215406126626542
+startTok Nous construisons celle-ci avec ces petits morceaux préfabriqués qui sont les fenêtres qui laissent entrer l'air et la lumière d'une manière contrôlée à l'intérieur du bâtiment. endTok	0.013825048815240323
+startTok Et ceci est complété par ces petits verres colorés qui utilisent la lumière provenant de l'intérieur du bâtiment pour éclairer le bâtiment la nuit. endTok	0.022793652050154326
+startTok Avec ces idées, il n'a pas été facile au début de convaincre les promoteurs parce qu'ils pensaient : « Ça, ce n'est pas un centre commercial. Nous n'avons pas demandé ça. » endTok	0.007098016733205634
+startTok Mais ensuite, nous avons tous compris que cette idée du marché serait beaucoup plus rentable que l'idée d'un centre commercial parce que fondamentalement ils avaient plus de commerces à vendre. endTok	0.008385315978467074
+startTok Et aussi parce que l'idée de la façade était bien moins chère, non seulement en raison du matériau, par rapport au verre, mais aussi car nous n'avions plus besoin d'avoir d'air conditionné. endTok	0.006008341447626345
+startTok Nous avons donc créé des économies budgétaires que nous avons utilisé pour mettre en œuvre le projet. endTok	0.07319658339955233
+startTok Et la première mesure a été de penser comment rendre le bâtiment autonome en termes d'énergie dans une ville ou l'électricité est coupée quasiment tous les jours. endTok	0.013825048815240323
+startTok Un énorme plus a été de placer des panneaux photovoltaïques sur le toit. endTok	0.14256747717620566
+startTok Et puis sous ces panneaux nous avons pensé la toiture comme un nouvel espace public avec des lieux de rencontres et des bars pour créer une sorte d'oasis urbaine. endTok	0.009906080346330753
+startTok Et tous ces porches sur le toit, permettent de recueillir l'eau qui est réutilisée dans l'assainissement à l'intérieur. endTok	0.061959570172152735
+startTok Espérons que ce soit finit d'ici le début de l'année, nous en sommes déjà au cinquième étage. endTok	0.07319658339955233
+startTok Le deuxième exemple est un plan directeur de 2000 appartements et locaux dans la ville de Tunis. endTok	0.07319658339955233
+startTok Et pour réaliser un tel projet, le plus grand projet que je n'ai jamais conçu, j'avais vraiment besoin de comprendre la ville de Tunis, mais aussi ses alentours, ses traditions et sa culture. endTok	0.00508595123231852
+startTok Au cours de cette analyse, j'ai prêté une attention particulière à la Médina une construction vieille de 1000 ans qui était autrefois cloisonnée par un mur, et ouverte par douze portes différentes, reliées par des lignes pratiquement droites. endTok	0.0022103452941199943
+startTok Quand je suis allé sur le site, la première opération de conception que nous avons fait était d'étendre les rues existantes, créant 12 blocs de départ de taille et de caractéristiques similaires à ceux que nous avons à Barcelone et dans d'autres villes en Europe, avec ces cours. endTok	0.00041748029990608176
+startTok En plus de cela, nous avons sélectionné quelques points stratégiques et les avons relié par des lignes droites, pour évoquer cette idée des portes, ce qui a modifié la configuration initiale. endTok	0.007098016733205634
+startTok Et la dernière opération était de voir la cellule, le composant de base du projet, tel l'appartement, comme une partie essentielle du plan directeur. endTok	0.022793652050154326
+startTok Et pour cela je me suis demandé : « quelle serait la meilleure orientation dans le climat méditerranéen pour un appartement ? » endTok	0.037580378972027005
+startTok Nord-sud, car cela crée une différence thermique entre les deux côtés de la maison et ainsi une ventilation naturelle. endTok	0.04439597201804127
+startTok Donc, nous avons choisi un agencement qui fait en sorte que la plupart des appartements soient parfaitement orientés dans cette direction. endTok	0.037580378972027005
+startTok Et voici le résultat : c'est presque une combinaison du bloc européen et de la ville arabe. endTok	0.08647154598524984
+startTok Il y a ces blocs avec des cours, puis au rez-de-chaussée vous avez toutes ces connexions pour les piétons. endTok	0.037580378972027005
+startTok Cela répond aussi aux réglementations locales qui requièrent une densité plus élevée dans les niveaux supérieurs et une densité inférieure au rez-de-chaussée. endTok	0.022793652050154326
+startTok Et cela consolide également l'idée des portes. endTok	0.38753858253732953
+startTok Le volume a cette forme de raccordement nuancée par trois différents types d'appartements qui permet également au rez-de-chaussée d'être exposé à la lumiere dans un quartier très dense. Et on trouve différents locaux dans les cours, tels un gymnase et une école maternelle et à proximité, une série de commerces apportant une activité au rez-de-chaussée. endTok	6.674664434225888e-05
+startTok Le toit, qui est mon espace préféré du projet, arrive presque à restituer à la communauté l'espace occupé par la construction. endTok	0.037580378972027005
+startTok Et c'est là où tous les voisins peuvent se réunir, et faire des activités comme une course de deux kilomètres de bon matin, en passant d'un bâtiment à l'autre. endTok	0.009906080346330753
+startTok Ces deux exemples, ont une approche commune dans le processus de conception. endTok	0.16842357369809585
+startTok Et aussi, ils sont situés dans des pays émergents où on peut littéralement voir les villes croître. endTok	0.07319658339955233
+startTok Dans ces villes, l'impact de l'architecture dans la vie des gens d'aujourd'hui et de demain modifie les communautés et les économies locales à la même vitesse que poussent les bâtiments. endTok	0.008385315978467074
+startTok Pour cette raison, j'estime qu'il est encore plus important de se tourner vers l'architecture pour trouver des solutions simples mais accessibles qui renforcent les relations entre la communauté et l'environnement et qui visent à rapprocher la nature et les gens. endTok	0.0015837816104164078
+startTok Merci beaucoup. endTok	0.6389431042462724
+startTok Je vais maintenant parler de confiance, et je vais commencer en vous rappelant l'opinion générale qu'ont les gens sur la confiance. endTok	0.037580378972027005
+startTok Je pense qu'il y a tellement de lieux communs, ils sont devenus des clichés de notre société. endTok	0.07319658339955233
+startTok Je pense qu'il y en a trois. endTok	0.38753858253732953
+startTok Le premier est une affirmation : il y a eu un grand déclin de la confiance, et on y croit très largement. endTok	0.037580378972027005
+startTok Le deuxième est un objectif : on devrait avoir plus de confiance. endTok	0.19896894256029013
+startTok Et le troisième est une tâche : on devrait rétablir la confiance. endTok	0.19896894256029013
+startTok Je pense que l'affirmation, l'objectif et la tâche sont tous pensés sous un mauvais angle. endTok	0.10215406126626542
+startTok Alors ce que je vais tenter de vous raconter aujourd'hui, c'est une histoire différente sur une affirmation, un objectif et une tâche qui, je crois, offre une bien meilleure prise sur cette question. endTok	0.00508595123231852
+startTok Premièrement, l'affirmation : pourquoi les gens pensent-ils que la confiance a diminué ? endTok	0.16842357369809585
+startTok Et si j'y pense vraiment, d'après ma propre expérience, je ne connais pas la réponse. endTok	0.10215406126626542
+startTok J'ai tendance à penser que ça a peut-être diminué pour certaines activités ou certaines institutions et que ça a peut-être augmenté pour d'autres. endTok	0.019294409903971108
+startTok Je n'ai pas de vue d'ensemble. endTok	0.45782273986766686
+startTok Mais, évidemment, je peux regarder les sondages d'opinion, et les sondages d'opinion sont supposément la source de la croyance que la confiance a diminué. endTok	0.022793652050154326
+startTok En fait, quand vous regardez les sondages d'opinion au fil du temps, il n'y a pas vraiment de preuves de ça. endTok	0.037580378972027005
+startTok C'est-à-dire que les gens qui inspiraient la méfiance il y a 20 ans, principalement les journalistes et les politiciens, inspirent encore la méfiance. endTok	0.019294409903971108
+startTok Et les personnes en qui on avait une grande confiance il y a 20 ans sont encore hautement dignes de confiance : les juges, les infirmières. endTok	0.019294409903971108
+startTok Le reste de nous se retrouve dans le milieu, et en passant, la personne ordinaire, dans la rue, se retrouve presque exactement à mi-chemin. endTok	0.019294409903971108
+startTok Mais est-ce que c'est une preuve crédible ? endTok	0.3280443278078623
+startTok Ce que les sondages d'opinion rapportent, évidemment, ce sont des opinions. endTok	0.19896894256029013
+startTok Que pourraient-ils rapporter d'autre ? endTok	0.5408536609893481
+startTok Alors ils cherchent à connaître l'opinion générale des gens quand on leur pose certaines questions. endTok	0.10215406126626542
+startTok Faites-vous confiance aux politiciens ? Faites-vous confiance aux professeurs ? endTok	0.23505403213046533
+startTok Maintenant, si quelqu'un vous dit : « Faites-vous confiance aux marchands de légumes ? endTok	0.16842357369809585
+startTok Faites-vous confiance aux poissonniers ? endTok	0.5408536609893481
+startTok Faites-vous confiance aux professeurs d'école primaire ? » endTok	0.3280443278078623
+startTok Vous allez probablement commencer par demander : «Pour faire quoi ? » endTok	0.23505403213046533
+startTok Et ce serait une réaction tout à fait sensée. endTok	0.27768352844338134
+startTok Et vous pourriez dire, lorsque vous aurez la réponse : « Bien, je fais confiance à certains d'entre eux, mais pas à d'autres. » endTok	0.026927518196686172
+startTok C'est tout à fait rationnel. endTok	0.5408536609893481
+startTok Bref, dans nos vies réelles, on accorde notre confiance d'une façon différentielle. endTok	0.16842357369809585
+startTok On ne présume pas que le degré de confiance qu'on aura pour un certain type d'employé, de fonctionnaire ou de personne va toujours être le même. endTok	0.016332365376260007
+startTok Je peux, par exemple, dire que j'ai assurément confiance en un certain professeur d'école primaire que je connais pour enseigner à lire à sa classe, mais en aucun cas pour conduire l'autobus scolaire. endTok	0.00508595123231852
+startTok Je peux, après tout, savoir qu'il n'est pas bon conducteur. endTok	0.23505403213046533
+startTok Je peux faire confiance à mes amis les plus bavards pour tenir une conversation mais pas pour garder un secret. endTok	0.04439597201804127
+startTok C'est simple. endTok	0.6389431042462724
+startTok Alors si on voit, dans notre vie quotidienne, ces exemples qui montrent que la confiance est variable, pourquoi oublie-t-on cette information lorsqu'on pense à la confiance de façon plus abstraite ? endTok	0.006008341447626345
+startTok Je pense que les sondages sont de très mauvais guides sur le degré de confiance qui existe en réalité, parce qu'ils essaient de faire disparaître le bon jugement qu'on utilise en accordant notre confiance. endTok	0.004305164771842524
+startTok Deuxièmement, qu'en est-il de l'objectif ? endTok	0.45782273986766686
+startTok L'objectif est d'avoir plus de confiance. endTok	0.45782273986766686
+startTok Bien franchement, je pense que c'est un objectif stupide. endTok	0.27768352844338134
+startTok Ce n'est pas ce que je viserais. endTok	0.38753858253732953
+startTok J'aspirerais plutôt à avoir plus confiance en ce qui est digne de confiance mais pas en ce qui n'est pas digne de confiance. endTok	0.026927518196686172
+startTok En fait, j'essaie plutôt de ne pas du tout faire confiance à ce qui n'est pas honnête. endTok	0.07319658339955233
+startTok Et je pense à ces personnes qui, par exemple, ont placé leurs économies entre les mains de gens comme le bien nommé M. Madoff, qui s'est enfui avec elles, et je pense à eux et je me dis, eh bien, oui, trop de confiance. endTok	0.0008131405915967908
+startTok Plus de confiance n'est pas un objectif intelligent en ce monde. endTok	0.19896894256029013
+startTok Accorder et refuser intelligemment la confiance est le véritable objectif. endTok	0.23505403213046533
+startTok Alors une fois qu'on dit, que quelqu'un dit oui, ok, ça veut dire que l'important, en premier lieu, ce n'est pas la confiance mais l'honnêteté. endTok	0.019294409903971108
+startTok C'est juger jusqu'à quel point les gens sont dignes de confiance pour des questions particulières. endTok	0.10215406126626542
+startTok Et je pense que ce jugement exige qu'on examine trois points. endTok	0.19896894256029013
+startTok Sont-ils compétents ? Sont-ils honnêtes ? Sont-ils fiables ? endTok	0.27768352844338134
+startTok Et si on trouve qu'une personne est compétente dans une matière pertinente, et fiable et honnête, on a d'assez bonnes raisons de lui faire confiance. parce qu'elle va se montrer digne de confiance. endTok	0.00508595123231852
+startTok Mais si, par ailleurs, elle n'est pas fiable, on ne devrait pas lui faire confiance. endTok	0.10215406126626542
+startTok J'ai des amis qui sont compétents et honnêtes, mais je ne leur ferais pas confiance pour poster une lettre parce qu'ils sont distraits. endTok	0.026927518196686172
+startTok J'ai des amis qui sont très confiants qu'ils peuvent faire certaines choses, mais je réalise qu'ils surestiment leurs propres compétences. endTok	0.04439597201804127
+startTok Et je suis très fière de dire que je ne crois pas avoir beaucoup d'amis qui sont compétents et fiables mais extrêmement malhonnêtes. endTok	0.026927518196686172
+startTok Si c'est le cas, je ne les ai pas encore repérés. endTok	0.19896894256029013
+startTok Mais voici ce qu'on recherche : l'honnêteté avant la confiance. endTok	0.27768352844338134
+startTok La confiance est la réponse. endTok	0.5408536609893481
+startTok L'honnêteté est ce que nous devons évaluer. Et, évidemment, c'est difficile. endTok	0.19896894256029013
+startTok Dans les dernières décennies, on a essayé de bâtir des systèmes d'imputabilité pour toutes sortes d'institutions, de professionnels, d'employés, etc., pour nous aider à évaluer leur honnêteté. endTok	0.013825048815240323
+startTok Plusieurs de ces systèmes ont l'effet inverse. endTok	0.38753858253732953
+startTok Ils ne fonctionnent pas comme ils le devraient. endTok	0.3280443278078623
+startTok Je me souviens d'avoir parlé avec une sage-femme qui disait : « Eh bien, voyez-vous, le problème, c'est que c'est plus long pour remplir la paperasse que mettre le bébé au monde. » endTok	0.00508595123231852
+startTok Et partout dans notre vie publique, institutionnelle, on se retrouve avec le problème que le système d'imputabilité, conçu pour protéger l'honnêteté et les preuves d'honnêteté fait en réalité tout le contraire. endTok	0.007098016733205634
+startTok Il distrait les gens qui doivent réaliser des tâches difficiles, comme les sages-femmes, de leur travail, en exigeant qu'ils cochent des cases, comme on dit. endTok	0.016332365376260007
+startTok Vous pouvez ajouter vos propres exemples ici. endTok	0.38753858253732953
+startTok Alors voilà pour l'objectif. endTok	0.6389431042462724
+startTok L'objectif, je pense, c'est plus d'honnêteté, et les choses vont changer si on essaie d'être honnête et de communiquer notre honnêteté à d'autres personnes, et si on tente d'évaluer si d'autres personnes, des fonctionnaires ou des politiciens, sont honnêtes. endTok	0.0018710168971705456
+startTok Ce n'est pas facile. C'est une question de jugement et les réactions, les réponses simples n'ont pas leur place ici. endTok	0.04439597201804127
+startTok Maintenant, en troisième lieu, la tâche. endTok	0.45782273986766686
+startTok Dire que la tâche est de rétablir la confiance nous ramène aussi en arrière, je pense, endTok	0.08647154598524984
+startTok Ça suppose que vous et moi devrions rétablir la confiance. endTok	0.23505403213046533
+startTok Eh bien, on peut faire ça par nous-mêmes. endTok	0.27768352844338134
+startTok On peut rétablir un peu d'honnêteté. endTok	0.45782273986766686
+startTok On peut faire ça, deux personnes ensemble, en essayant d'améliorer la confiance. endTok	0.16842357369809585
+startTok Mais la confiance, en fin de compte, est particulière parce qu'elle est accordée par d'autres personnes. endTok	0.08647154598524984
+startTok Vous ne pouvez pas rétablir ce que d'autres personnes vous donnent. endTok	0.19896894256029013
+startTok Vous devez leur donner des raisons pour qu'ils vous accordent leur confiance. endTok	0.16842357369809585
+startTok Alors vous devez, je crois, être digne de confiance. endTok	0.27768352844338134
+startTok Et ça, évidemment, c'est parce que vous ne pouvez pas tromper tout le monde, tout le temps, généralement. endTok	0.061959570172152735
+startTok Mais vous devez aussi fournir la preuve concrète que vous êtes digne de confiance. endTok	0.12068076399341783
+startTok Comment faire ? endTok	0.6389431042462724
+startTok Eh bien, chaque jour, un peu partout, des gens ordinaires, des fonctionnaires, des institutions, le font de manière assez efficace. endTok	0.04439597201804127
+startTok Laissez-moi vous donner un exemple simple, dans le commerce. endTok	0.23505403213046533
+startTok À la boutique où j'achète mes chaussettes, on me permet de les retourner sans qu'on me pose de questions. endTok	0.0524476438328049
+startTok Ils les reprennent et me redonnent l'argent ou ils me donnent une paire de chaussettes de la couleur que je voulais. endTok	0.037580378972027005
+startTok C'est super. Je leur fais confiance parce qu'ils se rendent eux-mêmes vulnérables face à moi. endTok	0.08647154598524984
+startTok Je pense qu'il y a une grande leçon à retenir de ça. endTok	0.16842357369809585
+startTok Si vous montrez votre vulnérabilité à l'autre partie, c'est une très bonne preuve que vous êtes honnête et que vous avez confiance en ce que vous dites. endTok	0.013825048815240323
+startTok Alors en fin de compte, je pense que le but visé n'est pas très difficile à discerner. endTok	0.07319658339955233
+startTok Ce sont les relations dans lequelles les gens sont honnêtes et capables de juger quand et comment l'autre personne est digne de confiance. endTok	0.026927518196686172
+startTok Alors la morale de tout ça, c'est qu'on doit penser beaucoup moins à la confiance, et encore moins aux signes de confiance révélés ou pas par les sondages d'opinion, et beaucoup plus au fait d'être honnête et à la façon de donner aux gens des preuves pertinentes, utiles et simples que vous êtes digne de confiance. endTok	0.00011004661227493859
+startTok Merci. endTok	0.6389431042462724
+startTok Le meilleur moment, quand on est papa ce sont les films que je peux regarder. endTok	0.10215406126626542
+startTok J'adore partager mes films préférés avec mes enfants, et quand ma fille avait quatre ans, nous avons regardé "Le Magicien d'Oz" ensemble. endTok	0.031811104014284386
+startTok Ce film a complètement captivé son imagination pendant des mois. endTok	0.23505403213046533
+startTok Son personnage préféré était Glinda, bien entendu. endTok	0.38753858253732953
+startTok Ça lui donnait une bonne excuse pour porter une robe à paillettes et avoir une baguette magique. endTok	0.07319658339955233
+startTok Mais si on regarde ce film assez de fois, on commence à se rendre compte à quel point il est inhabituel. endTok	0.037580378972027005
+startTok Le monde dans lequel nous vivons et élevons nos enfants est une sorte de complexe industriel d'un univers magique pour enfants. endTok	0.037580378972027005
+startTok Mais "Le Magicien d'Oz" a fait figure d'exception. endTok	0.3280443278078623
+startTok Il n'a pas initié cette tendance. endTok	0.45782273986766686
+startTok Ce n'est que 40 ans plus que cette tendance a vraiment démarré, avec, étonnamment, un autre film mettant en scène un bonhomme en métal et un bonhomme tout poilu qui sauvent une fille en se déguisant en gardes ennemis. endTok	0.0018710168971705456
+startTok Vous voyez de quoi je parle ? endTok	0.45782273986766686
+startTok Oui. endTok	0.6389431042462724
+startTok Il y a une grande différence entre ces deux films, quelques différences très importantes entre "Le Magicien d'Oz" et tous les films que nous regardons aujourd'hui. endTok	0.016332365376260007
+startTok La première est qu'il y a peu de violence dans "Le Magicien d'Oz". endTok	0.14256747717620566
+startTok Les singes sont plutôt agressifs, ainsi que les pommiers. endTok	0.27768352844338134
+startTok Mais je pense que si "Le Magicien d'Oz" devait être réalisé aujourd'hui, le magicien dirait, "Dorothy, tu es le sauveur d'Oz dont parle la prophétie. endTok	0.019294409903971108
+startTok Utilise tes chaussures magiques pour vaincre les armées de synthèse de la Méchante Sorcière." endTok	0.12068076399341783
+startTok Mais ça ne se passe pas comme ça. endTok	0.3280443278078623
+startTok Une autre chose vraiment spécifique au "Magicien d'Oz" selon moi, est que, tous les personnages les plus héroïques et sages, même les méchants, sont des femmes. endTok	0.016332365376260007
+startTok J'ai commencé à m'en rendre compte quand j'ai montré "Star Wars" à ma fille, bien des années plus tard, et la situation était différente. endTok	0.022793652050154326
+startTok A ce moment-là, j'avais aussi un fils. endTok	0.3280443278078623
+startTok Il n'avait que trois ans à l'époque. endTok	0.38753858253732953
+startTok Il n'était pas invité à la projection. Il était trop jeune pour ça. endTok	0.14256747717620566
+startTok Mais il était le deuxième enfant, et le niveau de supervision avait baissé. endTok	0.14256747717620566
+startTok Donc il est entré dans la salle, et ça l'a marqué comme une mère enseigne à son enfant, et je ne pense pas qu'il ait compris ce qui se passait, mais il s'en est imprégné. endTok	0.003644243302007566
+startTok Et je me demande ce dont il s'est imprégné. endTok	0.27768352844338134
+startTok Est-il en train d'intérioriser les thèmes de courage, de persévérance et de loyauté ? endTok	0.12068076399341783
+startTok Ou intériorise-t-il que Luke rejoint une armée pour renverser le gouvernement ? endTok	0.14256747717620566
+startTok Intériorise-t-il le fait qu'il n'y a que des garçons dans l'univers sauf la tante Beru, et bien sûr cette princesse, qui est vraiment cool, mais qui ne fait qu'attendre pendant presque tout le film pour pouvoir enfin récompenser le héros avec une médaille et un clin d'œil pour le remercier d'avoir sauvé l'univers, ce qu'il fait par la magie qu'il a de naissance ? endTok	2.4554718220699215e-05
+startTok Comparons ça au "Magicien d'Oz" de 1939. endTok	0.38753858253732953
+startTok Comment Dorothy gagne-t-elle dans le film ? endTok	0.3280443278078623
+startTok En étant amie avec tout le monde et en étant un leader. endTok	0.16842357369809585
+startTok C'est le genre de monde dans lequel je voudrais élever mes enfants -- Oz, n'est-ce pas? -- et pas un monde de mecs qui se bagarrent, là où se retrouve actuellement. endTok	0.008385315978467074
+startTok Pourquoi il y a-t-il tellement de Force -- Force avec un F majuscule -- dans les films que nous faisons pour nos enfants et si peu de route de brique jaune? endTok	0.007098016733205634
+startTok Il y a beaucoup de littérature sur l'impact que les films mecs-et-violence ont sur les filles, et vous devriez lire ce qui se dit. C'est très éclairant. endTok	0.009906080346330753
+startTok Je n'ai pas lu autant sur comment les garçons réagissent à ça. endTok	0.16842357369809585
+startTok Je sais d'expérience que la princesse Leia ne donne pas le contexte adéquat qui aurait pu m'être utile pour naviguer dans le monde adulte qui est mixte. endTok	0.013825048815240323
+startTok Il y avait ce moment du premier baiser où je m'attendais vraiment à voir le générique de fin parce que c'est la fin d'un film, n'est-ce pas? endTok	0.011702651167821564
+startTok J'ai accompli ma quête, j'ai eu la fille. endTok	0.3280443278078623
+startTok Pourquoi vous êtes encore là ? endTok	0.5408536609893481
+startTok Je ne sais pas quoi faire, là. endTok	0.38753858253732953
+startTok Les films sont très orientés sur la victoire face au méchant et recevoir sa récompense, et il n'y a pas beaucoup de place pour d'autres relations ni d'autres aventures. endTok	0.009906080346330753
+startTok Du genre, si t'es un garçon, t'es un animal abruti, et si t'es une fille, tu dois mettre ton costume de guerrière. endTok	0.031811104014284386
+startTok Il y a beaucoup d'exceptions, et je défendrai les princesses de chez Disney quoique vous en disiez. endTok	0.07319658339955233
+startTok Mais elles envoient un message aux garçons qu'ils ne sont pas le public cible. endTok	0.12068076399341783
+startTok Elles font un boulot formidable pour montrer aux filles comment se défendre face au patriarcat, mais elles ne montrent pas particulièrement aux garçons comment ils sont censés se défendre contre ce patriarcat. endTok	0.006008341447626345
+startTok Il n'y a pas de modèles pour eux. endTok	0.3280443278078623
+startTok Et nous avons aussi des femmes formidables qui écrivent de nouvelles histoires pour nos enfants, et aussi réalistes et charmantes que soient Hermione et Katniss, il s'agit toujours de films de guerre. endTok	0.006008341447626345
+startTok Et bien sûr, le studio le plus prospère de tous les temps continue à sortir classique après classique, chacun d'entre eux racontant le parcours d'un garçon, ou d'un homme, ou de deux hommes qui sont amis, ou d'un homme et son fils, ou deux hommes qui élèvent une petite fille. endTok	0.0002991377064304437
+startTok Jusqu'à ce que, comme beaucoup d'entre vous le pensent, cette année ils sortent "Rebelle". endTok	0.12068076399341783
+startTok Je le recommande à chacun d'entre vous. Il est actuellement disponible en VOD. endTok	0.14256747717620566
+startTok Vous vous souvenez de ce que les critiques ont dit quand "Rebelle" est sorti ? endTok	0.12068076399341783
+startTok "Ah, je n'arrive pas à croire que Pixar ait fait un film de princesse." endTok	0.12068076399341783
+startTok Il est très bien. Ne vous arrêtez pas à ça. endTok	0.23505403213046533
+startTok Donc, quasiment aucun de ces films ne passe le test de Bechdel. endTok	0.16842357369809585
+startTok Je ne sais pas si vous en avez entendu parlé. endTok	0.23505403213046533
+startTok Il n'est pas encore très connu, mais peut-être qu'aujourd'hui nous allons créer un mouvement. endTok	0.10215406126626542
+startTok Alison Bechdel est une dessinatrice de bande dessinée, et au milieu des années 80, elle a enregistré cette conversation qu'elle a eue avec un ami sur l'évaluation des films qu'ils avaient vus. endTok	0.006008341447626345
+startTok Et c'est très simple. Il n'y a que trois questions à se poser : Il y a-t-il plus d'un personnage dans le film qui soit feminin et qui ait du texte ? endTok	0.006008341447626345
+startTok Donc essayez d'atteindre ce niveau. endTok	0.5408536609893481
+startTok Et est-ce que ces femmes se parlent à un moment ou un autre dans le film ? endTok	0.07319658339955233
+startTok Est-ce que leur conversation tourne autour d'autre chose que l'homme qu'elles aiment toutes les deux ? endTok	0.08647154598524984
+startTok D'accord? Merci. endTok	0.6389431042462724
+startTok Merci beaucoup. endTok	0.6389431042462724
+startTok Deux femmes qui existent et qui discutent de trucs. endTok	0.27768352844338134
+startTok Ça existe. J'ai déjà vu ça, et pourtant je le vois très rarement dans les films que nous connaissons et aimons. endTok	0.037580378972027005
+startTok Justement, cette semaine je suis allé voir un film de haute facture, "Argo". endTok	0.14256747717620566
+startTok On parle d'Oscar, il fait carton au box-office, la définition même d'une super-production Hollywoodienne. endTok	0.08647154598524984
+startTok Il échoue tout de même au test de Bechdel. endTok	0.27768352844338134
+startTok Et je pense qu'il ne devrait pas, parce qu'une bonne partie du film, je ne sais pas si vous l'avez vu, mais une bonne partie du film se passe dans une ambassade où des hommes et des femmes se cachent pendant la crise des otages. endTok	0.0006883086505534262
+startTok Nous avons pas mal de scènes d'hommes ayant des conversations profondes, dominées par la frustration, dans cette cachette, et un des grands moments pour une des actrices est d'entr'ouvrir une porte et de dire : "Tu viens te coucher, chéri ?" endTok	0.0018710168971705456
+startTok Ça c'est du Hollywood. endTok	0.6389431042462724
+startTok Jetons un oeil aux chiffres. endTok	0.5408536609893481
+startTok En 2011, des 100 films les plus populaires, à votre avis, combien ont une femme comme personnage principal ? endTok	0.061959570172152735
+startTok Onze. C'est pas mal. endTok	0.6389431042462724
+startTok Ce n'est pas le même pourcentage que le nombre de femmes que nous venons d'élire au Congrès, donc ça va. endTok	0.04439597201804127
+startTok Mais il y a un chiffre qui est plus grand que ça qui va surprendre cette salle. endTok	0.07319658339955233
+startTok L'an dernier, le New York Times a publié une étude réalisée par le gouvernement. endTok	0.12068076399341783
+startTok Voici ce qu'elle dit. endTok	0.6389431042462724
+startTok Une femme sur cinq aux Etats-Unis dit avoir été agressée sexuellement à un moment de sa vie. endTok	0.061959570172152735
+startTok Bon, je ne pense pas que c'est la faute du divertissement grand public. endTok	0.14256747717620566
+startTok Je ne pense pas que les films pour enfants y soient pour quelque chose. endTok	0.12068076399341783
+startTok Je ne pense même pas que les clips ou la pornographie aient un rapport direct avec ça, mais il y a quelque chose qui cloche, et quand j'entends ces statistiques, une des choses auxquelles je pense est que ça fait beaucoup d'agresseurs sexuels. endTok	0.0009606121050066008
+startTok Qui sont ces hommes ? Qu'est-ce qu'ils apprennent ? endTok	0.3280443278078623
+startTok Qu'est-ce qu'ils n'arrivent pas à apprendre ? endTok	0.38753858253732953
+startTok S'imprègnent-ils de l'histoire que le boulot du héros est de vaincre le méchant par la violence et d'ensuite prendre sa récompense, qui est une femme qui n'a pas d'amis et qui ne parle pas ? endTok	0.003644243302007566
+startTok Sommes-nous en train de nous imprégner de cette histoire? endTok	0.23505403213046533
+startTok Vous savez, en tant que parent qui a le privilège d'élever une fille comme vous qui faites la même chose, nous trouvons ce monde et ces statistiques très inquiétants et nous voulons les préparer. endTok	0.004305164771842524
+startTok Nous avons des outils à notre disposition tels que le "girl power", et nous espérons que ça aidera, mais je me demande, est-ce que le "girl power" va suffire à les protéger si, en même temps, de façon active ou passive, nous entraînons nos fils à maintenir leur "boy power" ? endTok	0.0002532146017190638
+startTok Mon idée est que notre programme TV est un moyen de faire quelque chose de très important, et je m'adresse particulièrement aux pères ici. endTok	0.022793652050154326
+startTok Je pense que nous devons montrer à nos fils une nouvelle définition de la virilité. endTok	0.10215406126626542
+startTok La définition de la virilité est déjà en train de se renverser. endTok	0.16842357369809585
+startTok Vous avez dû lire comment la nouvelle économie renverse les rôles de celui qui gagne de l'argent et celui qui s'occupe de la famille. endTok	0.022793652050154326
+startTok Tout est chamboulé. endTok	0.6389431042462724
+startTok Nos fils vont devoir trouver un moyen de s'adapter à ça, à une nouvelle relation avec les autres et je pense que nous devons leur montrer, par l'exemple, à quel point un vrai mec c'est celui qui fait confiance à ses sœurs et les respecte, et veut faire partie de leur équipe, et se dresse contre les vrais méchants, qui sont les hommes qui maltraitent les femmes. endTok	1.75942244274477e-05
+startTok Et je pense que notre rôle dans cette programmation TV est de chercher ces films qui passent le test de Bechdel, si on arrive à les trouver, et à chercher les héroïnes qui sont là, qui font preuve de courage, qui rassemblent les gens, et d'inciter nos fils à s'identifier à ces héroïnes et à dire, "Je veux faire partie de leur équipe," parce qu'ils vont faire partie de leur équipe. endTok	9.033176017153059e-06
+startTok Quand j'ai demandé à ma fille son personnage préféré de "Star Wars", vous savez ce qu'elle a dit ? endTok	0.061959570172152735
+startTok Obi-Wan. endTok	0.6389431042462724
+startTok Obi-Wan Kenobi et Glinda. endTok	0.5408536609893481
+startTok Qu'ont-ils en commun ? endTok	0.6389431042462724
+startTok Peut-être qu'il y a plus que la robe scintillante. endTok	0.23505403213046533
+startTok Je pense que ces personnes sont des experts. endTok	0.3280443278078623
+startTok A mon avis, ce sont les deux personnes du film qui en savent plus que les autres, et ils aiment partager leurs connaissances avec les autres pour les aider à atteindre leur potentiel. endTok	0.00508595123231852
+startTok Ce sont des leaders. endTok	0.6389431042462724
+startTok J'aime ce genre de quête pour ma fille, et j'aime ce genre de quête pour mon fils. endTok	0.07319658339955233
+startTok Je veux plus de quêtes comme ça. endTok	0.38753858253732953
+startTok Je veux moins de quêtes où on raconte à mon fils, "Va et bats-toi seul," et plus de quêtes où il voit que c'est son devoir de rejoindre une équipe, peut-être une équipe menée par des femmes, pour aider les autres à devenir meilleurs et être de meilleures personnes, comme le Magicien d'Oz. endTok	0.00013000471131158705
+startTok Merci. endTok	0.6389431042462724
+startTok J'aimerais vous raconter une histoire à propos d'un gamin d'une petite ville. endTok	0.16842357369809585
+startTok Je ne connais pas son nom, mais je connais bien son histoire. endTok	0.16842357369809585
+startTok Il habite dans un petit village du sud de la Somalie. endTok	0.19896894256029013
+startTok Son village est proche de Mogadiscio. endTok	0.45782273986766686
+startTok La sécheresse a plongé le petit village dans la pauvreté et l'a mené au bord de la famine. endTok	0.061959570172152735
+startTok N'espérant plus rien de sa vie là-bas, il quitte son village pour la grande ville, pour Mogadiscio, capitale de la Somalie. endTok	0.031811104014284386
+startTok Une fois là-bas, il n'y trouve aucune opportunité, aucun travail, aucun débouché. endTok	0.14256747717620566
+startTok Il finit par s'installer dans un camp de tentes dans la banlieue de Mogadiscio. endTok	0.12068076399341783
+startTok Une année se passe et toujours rien. endTok	0.38753858253732953
+startTok Un jour, un homme bien mis s'approche de lui et lui propose de lui offrir le déjeuner, puis le dîner, puis le petit-déjeuner. endTok	0.022793652050154326
+startTok Il rencontre alors ce groupe de personnes dynamiques qui l'aide à s'en sortir. endTok	0.14256747717620566
+startTok On lui donne un peu d'argent pour s'acheter de nouveaux vêtements, de l'argent à envoyer à sa famille au pays. endTok	0.04439597201804127
+startTok On le présente à une jeune femme. endTok	0.38753858253732953
+startTok Il finit par se marier. endTok	0.5408536609893481
+startTok Il commence une nouvelle vie. endTok	0.5408536609893481
+startTok Il a enfin un but dans la vie. endTok	0.3280443278078623
+startTok Puis un beau jour à Mogadiscio, sous un ciel d'un bleu d'azur, une voiture piégée explose. endTok	0.08647154598524984
+startTok Le gamin du village qui rêvait de la grande ville était le kamikaze responsable de cet acte, et ce groupe de gens plein de dynamisme c'était al-Shabaab, une organisation terroriste liée au groupe al-Qaeda. endTok	0.003084785356204433
+startTok Alors, comment se fait-il qu'un petit villageois qui cherche seulement à réussir dans la grande ville finisse par se faire exploser ? endTok	0.031811104014284386
+startTok Il était en train d'attendre. endTok	0.5408536609893481
+startTok En train d'attendre une opportunité, en train d'attendre de construire son avenir, en train d'attendre de trouver une issue, et ce fut la première chose qui se présenta. endTok	0.011702651167821564
+startTok Ce fut la première chose qui le sortit de ce que nous appellerons sa situation d'attente. endTok	0.08647154598524984
+startTok Et son histoire se répète dans les centres urbains à travers le monde. endTok	0.14256747717620566
+startTok C'est l'histoire de la jeunesse urbaine, sans emploi et marginalisée, celle qui déclenche des émeutes à Johannesburg, des émeutes à Londres, celle qui tente de s'extraire de cette situation d'attente. endTok	0.008385315978467074
+startTok Pour les jeunes, la promesse de la grande ville, le rêve de la grande ville est celui des opportunités, du travail, de la richesse, mais les jeunes ne profitent pas de la prospérité de leur ville. endTok	0.003084785356204433
+startTok Souvent, ce sont les jeunes qui souffrent des taux de chômage les plus élevés. endTok	0.12068076399341783
+startTok D'ici 2030, trois citadins sur cinq auront moins de 18 ans. endTok	0.19896894256029013
+startTok Si nous n'impliquons pas les jeunes dans la croissance de nos villes, si nous ne leur fournissons pas des opportunités, cette situation d'attente, cette porte d'accès au terrorisme, à la violence et au crime organisé, sera l'histoire de nos villes. endTok	0.0015837816104164078
+startTok Dans ma ville natale, Mogadiscio, 70% des jeunes souffrent du chômage. endTok	0.19896894256029013
+startTok 70% n'ont pas de travail, ne vont pas à l'école. endTok	0.23505403213046533
+startTok Ils sont là, à ne rien faire. endTok	0.38753858253732953
+startTok Je suis retourné à Mogadiscio le mois dernier, et j'ai visité l'Hôpital Madina, l'hôpital où je suis né. endTok	0.061959570172152735
+startTok Je me souviens être resté debout devant cet hôpital criblé de balles en pensant, et si je n'étais jamais parti ? endTok	0.04439597201804127
+startTok Si j'avais été forcé de rester dans cette même situation d'attente ? endTok	0.19896894256029013
+startTok Serais-je devenu un terroriste ? endTok	0.5408536609893481
+startTok Je ne suis pas vraiment sûr de la réponse. endTok	0.27768352844338134
+startTok La raison pour laquelle je me trouvais à Mogadiscio ce mois-là était en vérité pour organiser un sommet des jeunes leaders et entrepreneurs. endTok	0.022793652050154326
+startTok J'ai réuni quelques 90 jeunes leaders somaliens. endTok	0.38753858253732953
+startTok Nous avons réfléchi ensemble à des solutions aux défis majeurs auxquels leur ville doit faire face. endTok	0.08647154598524984
+startTok Un des jeunes hommes dans la salle se nommait Aden. endTok	0.23505403213046533
+startTok Il avait obtenu son diplôme de l'université de Mogadiscio. endTok	0.27768352844338134
+startTok Mais il n'y avait pas d'emplois, pas d'opportunités. endTok	0.3280443278078623
+startTok Je me souviens qu'il m'avait dit, que parce qu'il était jeune diplômé, sans emploi et frustré, il représentait la cible parfaite pour être recruté par al-Shabaab et d'autres organisations terroristes. endTok	0.007098016733205634
+startTok Ils recherchaient des personnes comme lui. endTok	0.45782273986766686
+startTok Mais son histoire prit un autre tournant. endTok	0.38753858253732953
+startTok A Mogadiscio, le plus grand obstacle pour aller d'un point A vers un point B c'est les routes. endTok	0.061959570172152735
+startTok Vingt-trois ans de guerre civile ont complètement détruit le réseau routier, et une motocyclette est le moyen le plus aisé de se déplacer. endTok	0.022793652050154326
+startTok Aden y a vu une opportunité et l'a saisie. endTok	0.27768352844338134
+startTok Il a lancé une entreprise de motocyclettes. endTok	0.38753858253732953
+startTok Il a commencé à louer ces motos à des résidents locaux qui ne pouvaient en temps normal se le permettre. endTok	0.04439597201804127
+startTok Il a acheté dix motos avec l'aide de sa famille et de ses amis, et son rêve est de s'agrandir en en achetant plusieurs centaines dans les trois années à venir. endTok	0.007098016733205634
+startTok Qu'est-ce qui fait que cette histoire est différente ? endTok	0.27768352844338134
+startTok Qu'est-ce qui fait que son histoire est différente ? endTok	0.27768352844338134
+startTok Je crois que c'est sa capacité à identifier et à saisir une nouvelle opportunité. endTok	0.12068076399341783
+startTok C'est l'esprit d'entreprenariat, et je pense que l'entreprenariat peut être le remède le plus puissant contre la situation d'attente. endTok	0.0524476438328049
+startTok Il donne aux jeunes les moyens d'être les créateurs de ces mêmes opportunités qu'ils recherchent si désespérément. endTok	0.07319658339955233
+startTok Et on peut former les jeunes à devenirs des entrepreneurs. endTok	0.23505403213046533
+startTok Je vais vous raconter l'histoire d'un autre jeune homme qui a assisté à une de mes réunions, Mohamed Mohamoud, un fleuriste. endTok	0.037580378972027005
+startTok Il m'aidait à former certains jeunes présents au sommet de l'entreprenariat à faire preuve d'un esprit novateur et apprendre à créer une culture d'entreprenariat. endTok	0.022793652050154326
+startTok En fait, il est le premier fleuriste que Mogadiscio ait connu en plus de 22 ans, et jusqu'à tout récemment, jusqu'à l'arrivée de Mohamed, si vous vouliez des fleurs à votre mariage, il fallait utiliser des bouquets en plastique expédiés de l'étranger. endTok	0.0011348291129743356
+startTok Si vous demandiez à quelqu'un « Qu'elle est la dernière fois où vous avez vu des fleurs fraîches ? » pour beaucoup de ceux ayant connu la guerre civile, la réponse serait « Jamais. » endTok	0.004305164771842524
+startTok Alors Mohamed vit là une opportunité. endTok	0.45782273986766686
+startTok Il fonda une société d'aménagement du paysage et de composition florale. endTok	0.19896894256029013
+startTok Il établit une ferme à l'extérieur de Mogadiscio, où il fit pousser des tulipes et des fleurs de lys, qui, selon lui, pourraient résister au dur climat de Mogadiscio. endTok	0.009906080346330753
+startTok Et il commença à livrer des fleurs aux mariages, à aménager des jardins dans les maisons et les sites commerciaux à travers la ville, et à présent il travaille sur le projet du premier jardin public de Mogadiscio en 22 ans. endTok	0.001340642189435315
+startTok Il n'y a pas de jardin public à Mogadiscio. endTok	0.27768352844338134
+startTok Il veut donc créer un espace où les familles et les jeunes pourront se retrouver, et, comme il dit, humer le parfum de ces roses proverbiales. endTok	0.016332365376260007
+startTok Au fait, il ne cultive pas de roses car elles ont besoin de beaucoup trop d'eau. endTok	0.08647154598524984
+startTok La première étape est donc d'inspirer les jeunes, et dans cette salle, la présence de Mohamed a réellement eu un profond impact sur les jeunes. endTok	0.019294409903971108
+startTok Ils n'avaient jamais vraiment pensé à monter leur propre affaire. endTok	0.23505403213046533
+startTok Ils avaient pensé à travailler pour une ONG, à travailler pour le gouvernement, mais son histoire, son innovation, a vraiment eu un fort impact sur eux. endTok	0.016332365376260007
+startTok Il les a forcé à regarder leur ville comme une source d'opportunités. endTok	0.16842357369809585
+startTok Il leur a permis de croire en leur potentiel d'entrepreneurs, en leur pouvoir de changer les choses. endTok	0.07319658339955233
+startTok A la fin de la journée, ils étaient en mesure de proposer des solutions innovantes à certains des défis majeurs auxquels leur ville est confrontée. endTok	0.019294409903971108
+startTok Ils ont trouvé des solutions entreprenariales aux problèmes locaux. endTok	0.27768352844338134
+startTok Ainsi, inspirer les jeunes et créer une culture d'entreprenariat représente vraiment un grand pas, mais les jeunes ont besoin de capitaux pour concrétiser leurs idées. endTok	0.019294409903971108
+startTok Ils ont besoin de conseillers et de mentors pour les guider dans le développement et le lancement de leurs projets. endTok	0.04439597201804127
+startTok Donnez aux jeunes les ressources dont ils ont besoin, accordez-leur le soutien nécessaire pour passer de l'idée à la création, et vous aurez créé un catalyseur à la croissance urbaine. endTok	0.007098016733205634
+startTok Selon moi, l'entreprenariat est plus que le simple fait de monter une affaire. endTok	0.14256747717620566
+startTok C'est avoir un impact sur la société. endTok	0.38753858253732953
+startTok Mohamed ne vend pas simplement des fleurs. endTok	0.38753858253732953
+startTok Il vend aussi de l'espoir. endTok	0.5408536609893481
+startTok Son Peace Park comme il l'appelle, une fois achevé, va véritablement transformer le regard des gens sur leur ville. endTok	0.0524476438328049
+startTok Aden a engagé des gosses de la rue pour l'aider à louer et entretenir les motos. endTok	0.08647154598524984
+startTok Il leur a ainsi donné l'occasion d'échapper à la paralysie de la situation d'attente. endTok	0.12068076399341783
+startTok Ces jeunes entrepreneurs ont un immense impact sur leur villes. endTok	0.23505403213046533
+startTok Ma suggestion est donc, transformez les jeunes en entrepreneurs, incubez et nourrissez leur capacité d'innovation inhérente, et vous aurez plus d'histoires de fleurs et de Peace Parks que de voitures piégées et de situations d'attente. endTok	0.003644243302007566
+startTok Je vous remercie. endTok	0.6389431042462724
+startTok Quand j'étais enfant, j'ai grandi dans le Maine, j'aimais beaucoup chercher des dollars des sables sur les plages du Maine, parce que mes parents me disaient que ça me porterait chance. endTok	0.007098016733205634
+startTok Vous savez, ces coquillages sont difficiles à trouver. endTok	0.3280443278078623
+startTok Ils sont recouverts de sable. Ils sont difficiles à repérer. endTok	0.23505403213046533
+startTok Mais au fil du temps, je me suis habituée à les chercher. endTok	0.16842357369809585
+startTok J'ai commencé à reconnaître des formes et des modèles qui m'aidaient à les rassembler. endTok	0.12068076399341783
+startTok Ça a évolué en une passion pour la découverte, un amour pour le passé et l'archéologie. endTok	0.08647154598524984
+startTok Finalement, quand j'ai commencé à étudier l'égyptologie, je me suis rendue compte que voir à l'œil nu n'était pas suffisant. endTok	0.04439597201804127
+startTok Parce que, d'un coup en Egypte, ma minuscule plage du Maine s'était transformée en une plage d'environ 1300 kilomètres de long près du Nil, et mes dollars des sables avaient la taille de villes. endTok	0.004305164771842524
+startTok C'est ce qui m'a vraiment amenée à utiliser l'imagerie satellite. endTok	0.23505403213046533
+startTok Pour pouvoir tracer le passé, je savais qu'il me faudrait voir les choses autrement. endTok	0.12068076399341783
+startTok Je veux vous montrer comment l'on voit différemment grâce à l'infrarouge. endTok	0.19896894256029013
+startTok Ce site, situé à l'est du Delta égyptien, s'appelle Bendix. endTok	0.23505403213046533
+startTok À vue d'œil, le site est marron, mais sous infrarouge et après traitement avec des couleurs artificielles, le site apparaît soudain en rose vif. endTok	0.022793652050154326
+startTok Ce que vous voyez sont en fait les transformations chimiques du paysage causées par les matériaux de construction et l'activité des égyptiens antiques. endTok	0.026927518196686172
+startTok Ce que je veux partager avec vous aujourd'hui c'est la manière dont des données satellite ont servi à retrouver une ville égyptienne antique, appelée Itjtawy, portée disparue durant des milliers d'années. endTok	0.007098016733205634
+startTok Itjtawi a été la capitale de l'Égypte antique pendant plus de quatre cent ans, à une époque appelée le Moyen Empire et datant de quatre mille ans. endTok	0.013825048815240323
+startTok Cet endroit se situe dans la ville de Faiyum en Égypte et il est très important parce qu'au Moyen Empire, une grande renaissance avait transformé l'art, l'architecture et la religion de l'Égypte antique. endTok	0.00508595123231852
+startTok Les Égyptologues avaient toujours présumé qu'Itjtawy se trouvait quelque part entre les pyramides des deux rois l'ayant construite, comme l'indiquent les cercles rouges, quelque part au sein de cet immense lit d'inondation. endTok	0.006008341447626345
+startTok Cette zone est vaste, elle mesure environ 6,5 kilomètres sur 5. endTok	0.16842357369809585
+startTok Le Nil s'écoulait tout près de la ville d'Itjtawy, et à mesure qu'il évoluait, changeait et se déplaçait vers l'est, il a fini par recouvrir la ville. endTok	0.013825048815240323
+startTok Comment retrouver une ville engloutie sous un vaste paysage ? endTok	0.27768352844338134
+startTok Essayer au hasard équivaudrait à chercher une aiguille dans une botte de foin, les yeux bandés et des gants de baseball aux mains. endTok	0.026927518196686172
+startTok Ce qu'on a fait c'est qu'on a utilisé les données topographiques de la NASA pour établir une carte du site; les différences sont très subtiles. endTok	0.019294409903971108
+startTok On a réussi à remonter aux origines de l'écoulement du Nil endTok	0.19896894256029013
+startTok et ce qui est encore plus intéressant, c'est que vous pouvez voir en détail cette zone légèrement surélevée et délimitée par ce cercle ; nous avons pensé que cela pourrait bien être l'emplacement de la ville d'Itjtawy. endTok	0.003084785356204433
+startTok Avec des scientifiques Égyptiens, nous avons entrepris le carottage, que vous voyez ici. endTok	0.14256747717620566
+startTok Quand je dis carottage, c'est comme le carottage de glace, or on ne cherchait pas de couches témoignant du changement climatique mais de l'occupation humaine. endTok	0.019294409903971108
+startTok À cinq mètres de profondeur, sous une épaisse couche de boue, se trouvait une dense couche de poterie. endTok	0.061959570172152735
+startTok Ceci démontre qu'à l'emplacement probable d'Itjtawy, à cinq mètres de profondeur, des couches témoignent de l'occupation humaine durant plusieurs centaines d'années et datent du Moyen Empire, exactement comme on l'avait supposé. endTok	0.007098016733205634
+startTok On a aussi trouvé des pierres taillées, de la cornaline, du quartz, de l'agate, ce qui montrait qu'un atelier de bijoutier se trouvait ici. endTok	0.022793652050154326
+startTok À première vue, ça ne saute pas aux yeux, mais quand vous pensez aux pierres les plus utilisées en matière de bijoux à l'époque du Moyen Empire, c'étaient bien celles-là. endTok	0.007098016733205634
+startTok Donc nous avons ici une dense couche d'occupation humaine datant du Moyen Empire. endTok	0.14256747717620566
+startTok On a aussi la preuve de l'existence d'un atelier de bijouterie de luxe démontrant que la ville qui se trouvait ici devait être très importante. endTok	0.019294409903971108
+startTok On ne sait pas encore si c'était bien Itjtawy, mais on compte prochainement revenir sur les lieux pour en dresser le plan. endTok	0.031811104014284386
+startTok Ce qui est plus important encore, c'est que nous disposons de fonds pour apprendre aux jeunes Égyptiens à manier la technologie satellitaire pour qu'ils puissent également contribuer aux grandes découvertes. endTok	0.008385315978467074
+startTok Je conclue donc avec ma citation favorite du Moyen Empire, probablement écrite à Itjtawy il y a quatre mille ans. endTok	0.04439597201804127
+startTok « Le partage du savoir est la meilleure des vocations. endTok	0.23505403213046533
+startTok Il n'y a rien de comparable sur terre. » endTok	0.27768352844338134
+startTok Il s'avère que TED n'a pas été fondé en 1984 de notre ère. endTok	0.14256747717620566
+startTok La création d'idées a en fait commencé en 1984 avant J.-C dans une ville égarée pour quelque temps et retrouvée d'en haut. endTok	0.026927518196686172
+startTok Cela met surement en perspective la découverte des coquillages sur le rivage. endTok	0.16842357369809585
+startTok Merci beaucoup. endTok	0.6389431042462724
+startTok Merci. endTok	0.6389431042462724
+startTok Grandir à Taiwan en tant que fille d'une calligraphe, un des moments que je chéris le plus c'est ma mère me montrant la beauté et la forme des caractères chinois. endTok	0.008385315978467074
+startTok Depuis, j'ai toujours été fascinée par cette langue incroyable. endTok	0.27768352844338134
+startTok Mais pour un étranger, ça semble être aussi impénétrable que la Grande Muraille de Chine. endTok	0.10215406126626542
+startTok Depuis quelques années, je me suis demandé si je pouvais abattre ce mur, pour que n'importe qui, qui souhaiterait comprendre et apprécier la beauté de cette langue sophistiquée puisse le faire. endTok	0.007098016733205634
+startTok J'ai commencé à réfléchir à l'utilité d'une méthode nouvelle et rapide d'apprendre le chinois. endTok	0.12068076399341783
+startTok Depuis que j'ai cinq ans, j'ai appris à dessiner chaque trait pour chaque caractère dans l'ordre. endTok	0.08647154598524984
+startTok J'apprenais de nouveaux caractères tous les jours pendant les 15 années qui ont suivi. endTok	0.12068076399341783
+startTok Puisque nous n'avons que cinq minutes, il faudrait faire simple et rapide. endTok	0.16842357369809585
+startTok Un érudit Chinois comprendrait 20 000 caractères. endTok	0.38753858253732953
+startTok On n'en a besoin que de 1000 pour la langue courante. endTok	0.19896894256029013
+startTok Les 200 premiers permettent de comprendre 40% de la littérature de base -- assez pour lire les signes de la route, le menu des restaurants, pour comprendre l'idée de base des sites web ou des journaux. endTok	0.003644243302007566
+startTok Aujourd'hui je vais commencer avec huit caractères pour vous montrer comment marche la méthode. endTok	0.12068076399341783
+startTok Vous êtes prêts ? endTok	0.6389431042462724
+startTok Ouvrez la bouche aussi grand que possible jusqu'à ce qu'elle soit carrée. endTok	0.16842357369809585
+startTok Vous avez une bouche. endTok	0.6389431042462724
+startTok Voici une personne qui se promène. endTok	0.45782273986766686
+startTok Personne. endTok	0.6389431042462724
+startTok Si la forme du feu est une personne avec deux bras de chaque côté, comme si elle hurlait frénétiquement, «  Aidez-moi ! Je prends feu ! » -- Le symbole vient de la forme d'une flamme, mais j'aime le voir comme ça. C'est comme vous le voulez. endTok	0.0006883086505534262
+startTok Ceci est un arbre. endTok	0.6389431042462724
+startTok Arbre. endTok	0.6389431042462724
+startTok Ceci est une montagne. endTok	0.6389431042462724
+startTok Le soleil. endTok	0.6389431042462724
+startTok La lune. endTok	0.6389431042462724
+startTok Le symbole de la porte ressemble à une porte de saloon du Far West. endTok	0.12068076399341783
+startTok J'appelle ces huit caractères des radicaux. endTok	0.45782273986766686
+startTok Ce sont les briques pour créer plus de caractères. endTok	0.27768352844338134
+startTok Une personne. endTok	0.6389431042462724
+startTok Si quelqu'un marche derrière, ça veut dire « suivre ». endTok	0.3280443278078623
+startTok Comme le veut le dicton, deux c'est bien, trois c'est une foule. endTok	0.16842357369809585
+startTok Si une personne ouvre grand les bras, alors cette personne dit, « C'était grand comme ça. » endTok	0.08647154598524984
+startTok Si la personne est dans la bouche, c'est qu'elle est piégée. endTok	0.19896894256029013
+startTok C'est un prisonnier, comme Jonah dans la baleine. endTok	0.3280443278078623
+startTok Un arbre c'est un arbre. Deux arbres, c'est un bois. endTok	0.23505403213046533
+startTok Trois arbres, nous avons une forêt. endTok	0.45782273986766686
+startTok Une planche sous l'arbre, et nous avons la fondation. endTok	0.27768352844338134
+startTok Une bouche au-dessus de l'arbre, et c'est « stupide ». endTok	0.27768352844338134
+startTok Facile à mémoriser, puisque parler à un arbre est assez stupide. endTok	0.19896894256029013
+startTok Vous vous souvenez du feu ? endTok	0.5408536609893481
+startTok Deux feux ensemble, et il fait très chaud. endTok	0.3280443278078623
+startTok Trois feux ensemble, c'est beaucoup de flammes. endTok	0.38753858253732953
+startTok Mettez le feu sous les deux arbres, et il brûle. endTok	0.23505403213046533
+startTok Pour nous, le soleil est source de prospérité. endTok	0.3280443278078623
+startTok Deux soleils ensemble, prospérité. endTok	0.6389431042462724
+startTok Trois soleils, c'est des étincelles. endTok	0.5408536609893481
+startTok Le soleil et la lune ensemble, c'est la brillance. endTok	0.27768352844338134
+startTok Ça veut aussi dire demain, après un jour et une nuit. endTok	0.19896894256029013
+startTok Le soleil se lève au-dessus de l'horizon. L'aube. endTok	0.27768352844338134
+startTok Une porte. Une planche dans la porte, c'est un verrou. endTok	0.23505403213046533
+startTok Une bouche dans la porte, c'est poser des questions. endTok	0.27768352844338134
+startTok Toc, toc. Quelqu'un est là ? endTok	0.5408536609893481
+startTok Cette personne se faufile dehors, se sauve, s'échappe. endTok	0.3280443278078623
+startTok A gauche, on a une femme. endTok	0.45782273986766686
+startTok Deux femmes ensemble, c'est une dispute. endTok	0.45782273986766686
+startTok Trois femmes ensemble, attention, c'est l'adultère. endTok	0.45782273986766686
+startTok Donc nous avons vu presque 30 caractères. endTok	0.38753858253732953
+startTok En utilisant cette méthode, les huit premiers radicaux vous permettent d'en construire 32. endTok	0.14256747717620566
+startTok Les huit prochains caractères en construiront 32 de plus. endTok	0.27768352844338134
+startTok Donc avec très peu d'effort, vous pourrez apprendre 200 caractères, comme un enfant Chinois de 8 ans. endTok	0.07319658339955233
+startTok Donc après les caractères, nous en construisons des phrases. endTok	0.27768352844338134
+startTok Par exemple, la montagne et le feu ensemble, nous avons un feu de montagne. C'est un volcan. endTok	0.07319658339955233
+startTok Nous savons que le Japon est le pays du soleil levant. endTok	0.19896894256029013
+startTok C'est un soleil placé avec l'origine, car le Japon est à l'Est de la Chine. endTok	0.10215406126626542
+startTok Donc un soleil, avec son origine, nous avons le Japon. endTok	0.23505403213046533
+startTok Une personne derrière le Japon, qu'avons-nous ? endTok	0.38753858253732953
+startTok Un Japonais. endTok	0.6389431042462724
+startTok Le caractère sur la gauche c'est deux montagnes l'une au-dessus de l'autre. endTok	0.14256747717620566
+startTok Dans l'ancienne Chine, ça voulait dire exil, parce que les empereurs Chinois mettaient leurs ennemis en exil au-delà des montagnes. endTok	0.037580378972027005
+startTok Aujourd'hui, l'exil veut dire sortir. endTok	0.5408536609893481
+startTok Une bouche qui indique où sortir est une sortie. endTok	0.27768352844338134
+startTok Ça c'est une diapo qui me rappelle que je dois arrêter de parler et descendre de la scène. Merci. endTok	0.0524476438328049
